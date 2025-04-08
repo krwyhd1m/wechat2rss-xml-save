@@ -2,15 +2,57 @@
   <channel>
     <title>CodeAllen嵌入式</title>
     <link>https://localhost:8080/feed/3203933248.xml</link>
-    <description>作者Allen，在职外企高级软件工程师，每年辅导超过500+同学。本号专注职业规划/技术科普/智能生活，有意咨询可以添加我的私人V信「coderallen」。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
+    <description>作者Allen，在职外企高级工程师。本号专注职业规划/技术科普/智能生活，有意咨询可以添加我的私人V信「coderallen」。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (CodeAllen嵌入式)</managingEditor>
-    <pubDate>Mon, 24 Mar 2025 07:44:47 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Mar 2025 07:44:47 +0800</lastBuildDate>
+    <pubDate>Tue, 08 Apr 2025 07:30:33 +0800</pubDate>
+    <lastBuildDate>Tue, 08 Apr 2025 07:30:33 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM45oN55eoqbW3EfUNOmTEDvTuFIuHO8EjlexxjOb9cUgQ/0</url>
       <title>CodeAllen嵌入式</title>
       <link>https://localhost:8080/feed/3203933248.xml</link>
     </image>
+    <item>
+      <title>分享10个应用PID控制算法的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487877&amp;idx=1&amp;sn=a209ca462a700cac9430250cd13c94cf&amp;chksm=97cb1ac92af09c18ef44a7194f56f9cd070c36622c77618bd56974b187c766081ef500d267dc&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
+      <pubDate>Tue, 08 Apr 2025 07:30:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享8种stm32单片机常用的通信协议</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487855&amp;idx=1&amp;sn=ba4a24c389bb7de50507df229b9019dd&amp;chksm=971d039ffed6079d469b8cd22e32eecec575485ea2303c8a2879bd7bbd017db71146f7d5020c&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Thu, 03 Apr 2025 07:38:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享8个用stm32单片机做的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487853&amp;idx=1&amp;sn=f64884c3027ce9ca86893c905692b90b&amp;chksm=978709141733bf2a116f94f161dd610107a7df1d896662ddf185ef9e2553962fe916fadec92e&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天分享8个用stm32做的黑科技产品。</description>
+      <pubDate>Wed, 02 Apr 2025 07:36:37 +0800</pubDate>
+    </item>
+    <item>
+      <title>单片机、嵌入式的大神都平时浏览什么网站？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487851&amp;idx=1&amp;sn=899ec73e3c23195cf959f4ec8d83de04&amp;chksm=97daedc8fdbef614791c6081d7d06b5fef85ce46ec1c2fd1b10becc823f9fe85ee966dfc73fb&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Tue, 01 Apr 2025 07:22:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享10个应用PID控制算法的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487838&amp;idx=1&amp;sn=d4b87d4f830feeff0ed4ac7ec509d08c&amp;chksm=97abbebfdad27c4d54f6121f8ca9c56922625e24336aa4ff2f1151920a15e638c44faa0a71b4&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
+      <pubDate>Thu, 27 Mar 2025 07:01:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享5种嵌入式开发常用的数学原理</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487823&amp;idx=1&amp;sn=eaba8d4d81fb49af1a707da39a3230df&amp;chksm=9709464526d87b47e0f9ddf0af371be77b2e9a446711a01128a29531b23f58c3851ff6d753be&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的基础数学算法。</description>
+      <pubDate>Wed, 26 Mar 2025 07:06:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享5种嵌入式开发常用的滤波算法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487802&amp;idx=1&amp;sn=b25dd5a4c082adbfc211ceafc4e78d4f&amp;chksm=977da64c8f7442415b8407063d8b914059cb9b5fdc79947afa0e19e9f50c6c4fb5b59c598ec0&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的信号处理与滤波算法。</description>
+      <pubDate>Tue, 25 Mar 2025 06:44:34 +0800</pubDate>
+    </item>
     <item>
       <title>分享下STM32单片机的18年发展史</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487788&amp;idx=1&amp;sn=5c75dd0fe842b85dac0720db4378681c&amp;chksm=96c68203a1b10b15c4112cb4ecdc9f2fbd1351fd3659df710bbc8d8d86ccfd8376e58c6009fb&amp;scene=58&amp;subscene=0#rd</link>
@@ -38,6 +80,12 @@
       <pubDate>Mon, 24 Mar 2025 07:45:00 +0800</pubDate>
     </item>
     <item>
+      <title>分享下STM32单片机的18年发展史</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487788&amp;idx=1&amp;sn=5c75dd0fe842b85dac0720db4378681c&amp;chksm=97e3e4b41849fb56bcda39157b5b045c4eae6959ddb7042f8ec50ce0b2e1e8b960eaa00b93a2&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Mon, 24 Mar 2025 07:44:47 +0800</pubDate>
+    </item>
+    <item>
       <title>经常使用单片机的同学，你知道单片机的发展历史吗？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487767&amp;idx=1&amp;sn=ed1b729c916c08f6745b4a8a9338efff&amp;chksm=96c68238a1b10b2ea0fa2d8472608680debfb6066b136d242d638ec28114b6632edb086f2c76&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
@@ -62,6 +110,12 @@
 <p><a href="https://localhost:8080/link-proxy/?k=2f1d5961&amp;r=1&amp;u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzkzMzI0OA%3D%3D%26mid%3D2247487767%26idx%3D1%26sn%3Ded1b729c916c08f6745b4a8a9338efff%26chksm%3D96c68238a1b10b2ea0fa2d8472608680debfb6066b136d242d638ec28114b6632edb086f2c76%26scene%3D58%26subscene%3D0%23rd">跳转微信打开</a></p>
 ]]></content:encoded>
       <pubDate>Sun, 23 Mar 2025 08:41:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享6个嵌入式开发中人工智能的应用</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487752&amp;idx=1&amp;sn=4c05fd89053da13198ce3edaa21b57ae&amp;chksm=97c7335e911fb373aa7f81de21ff27d58c0741838a932713943ad2b8afd0c0b578a6c25d67c0&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Sat, 22 Mar 2025 08:11:03 +0800</pubDate>
     </item>
     <item>
       <title>分享6个嵌入式开发中人工智能的应用</title>
@@ -142,6 +196,18 @@
       <pubDate>Thu, 20 Mar 2025 09:09:00 +0800</pubDate>
     </item>
     <item>
+      <title>什么是嵌入式RTOS，为什么单片机开发需要RTOS？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487715&amp;idx=1&amp;sn=e24efa47c8b75dc8b48936d7d6d34dc8&amp;chksm=9731f6a6b88e85b2f89a75e7db2dd1e097891ffbfe4ebc8c1aacf7f2c5eb1cfc79f2ea6f5402&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Thu, 20 Mar 2025 09:08:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享8种stm32单片机常用的通信协议</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487693&amp;idx=1&amp;sn=4d7d79731e4561143ad43527acb15b76&amp;chksm=97e10709bf6155e4dcdc498f6960c029a20d698bd79cd84f60d67c0b7c3336b389bfea3a67f9&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Wed, 19 Mar 2025 07:45:33 +0800</pubDate>
+    </item>
+    <item>
       <title>分享8种stm32单片机常用的通信协议</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487693&amp;idx=1&amp;sn=4d7d79731e4561143ad43527acb15b76&amp;chksm=96c683e2a1b10af4236af12c056b3c88adaae46da5dd7de72a05db374b38b6696ab4ba8414f8&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
@@ -194,6 +260,18 @@
       <pubDate>Tue, 18 Mar 2025 07:09:00 +0800</pubDate>
     </item>
     <item>
+      <title>分享8种stm32单片机常用的嵌入式系统</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=971db68f68f537d0828fa94ee19376b36dd43a5aa6964624c1a10186a1e1c7c8a6e193d97285&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>PCB常用分层设计介绍，4层/6层/8层</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=97abacf38fe227034c939b10024f666cf908fd7ffca3cee00112c72acb4faefa54f61b91e463&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
+    </item>
+    <item>
       <title>PCB常用分层设计介绍，4层/6层/8层</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=96c683b5a1b10aa31ecd6411407b635adf52dc0566e30c0901be4446b7f1a6e17d9969238413&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
@@ -218,6 +296,12 @@
 <p><a href="https://localhost:8080/link-proxy/?k=2986d459&amp;r=1&amp;u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzkzMzI0OA%3D%3D%26mid%3D2247487642%26idx%3D1%26sn%3Dd6648aa81792222a6af592703142ec37%26chksm%3D96c683b5a1b10aa31ecd6411407b635adf52dc0566e30c0901be4446b7f1a6e17d9969238413%26scene%3D58%26subscene%3D0%23rd">跳转微信打开</a></p>
 ]]></content:encoded>
       <pubDate>Mon, 17 Mar 2025 07:40:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享5种树莓派板卡类型，从入门到进阶</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487634&amp;idx=1&amp;sn=fca0d4eb5f8add7d7070cbb276b84a3a&amp;chksm=975531bc4bd3ac2ff8dc55a1ce8d4e216c69b024e9b62e8b7317630540f1c6143c2b42845fdd&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Sun, 16 Mar 2025 08:09:22 +0800</pubDate>
     </item>
     <item>
       <title>分享5种树莓派板卡类型，从入门到进阶</title>
@@ -247,6 +331,12 @@
     </item>
     <item>
       <title>分享8个用stm32单片机做的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487615&amp;idx=1&amp;sn=9b6d6edfa47097bbddbe7e3cc77de9f3&amp;chksm=978d899d026ddd3fba36d1f16443f37883a243f41ac263ee034e97527f1afc4418734ac6fdce&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Sat, 15 Mar 2025 08:49:26 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享8个用stm32单片机做的黑科技产品</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487615&amp;idx=1&amp;sn=9b6d6edfa47097bbddbe7e3cc77de9f3&amp;chksm=96c68350a1b10a46cb855633e34700cdc52d71e5fcc1f56aea89500a2dd2e09a75d479273222&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
       <content:encoded><![CDATA[<p>
@@ -273,6 +363,12 @@
     </item>
     <item>
       <title>分享6个应用CAN总线技术的的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487598&amp;idx=1&amp;sn=5170a0e90d15cdbd29bc67270d0c3e94&amp;chksm=97e163a5c1d7cb8ce3d394245a9b81c0b0bab91a31222bd02c1c305f22c589dbd7afe359e734&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Fri, 14 Mar 2025 07:20:10 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享6个应用CAN总线技术的的黑科技产品</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487598&amp;idx=1&amp;sn=5170a0e90d15cdbd29bc67270d0c3e94&amp;chksm=96c68341a1b10a575f2bf6a9c9316eecf1b35d17761e374b9b80abe6c37bdf91fd1ca825416f&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
       <content:encoded><![CDATA[<p>
@@ -296,6 +392,12 @@
 <p><a href="https://localhost:8080/link-proxy/?k=6914b26c&amp;r=1&amp;u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzkzMzI0OA%3D%3D%26mid%3D2247487598%26idx%3D1%26sn%3D5170a0e90d15cdbd29bc67270d0c3e94%26chksm%3D96c68341a1b10a575f2bf6a9c9316eecf1b35d17761e374b9b80abe6c37bdf91fd1ca825416f%26scene%3D58%26subscene%3D0%23rd">跳转微信打开</a></p>
 ]]></content:encoded>
       <pubDate>Fri, 14 Mar 2025 07:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>新能源BMS软件工程师是做什么的？新手如何入门？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487583&amp;idx=1&amp;sn=0c9017a11ce06ffc9932b1a76b46527f&amp;chksm=970195c9e530635e8e88752f9ec149564bdee394c0e8e788a05aefe699958930b20e2802cba3&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Thu, 13 Mar 2025 07:25:26 +0800</pubDate>
     </item>
     <item>
       <title>新能源BMS软件工程师是做什么的？新手如何入门？</title>
@@ -348,6 +450,18 @@
 <p><a href="https://localhost:8080/link-proxy/?k=edf19fe4&amp;r=1&amp;u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzkzMzI0OA%3D%3D%26mid%3D2247487581%26idx%3D1%26sn%3D53f5a2de269a311082ad5f2f677ced6c%26chksm%3D96c68372a1b10a64fa858ca72a4f7ba219df56e69021e3755b02679edec3bf5e8009807891b1%26scene%3D58%26subscene%3D0%23rd">跳转微信打开</a></p>
 ]]></content:encoded>
       <pubDate>Wed, 12 Mar 2025 07:32:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>物联网开发入门：使用串口发送AT指令（附官网资料）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487581&amp;idx=1&amp;sn=53f5a2de269a311082ad5f2f677ced6c&amp;chksm=9756622b2d98399a373db040d560225a83ac59659cb0971b0966a0b6b5c32e718bc3a1e25ab7&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Wed, 12 Mar 2025 07:31:48 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享8个用树莓派做的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487576&amp;idx=1&amp;sn=f6569b3c682593f0cd4a7b2166bdbcc9&amp;chksm=97166c20c83f93f034e7a1039f3a4304ad739d5625e3c288b363bef1b9b8faf5f9318ad37893&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Tue, 11 Mar 2025 07:29:19 +0800</pubDate>
     </item>
     <item>
       <title>分享8个用树莓派做的黑科技产品</title>
@@ -479,6 +593,12 @@
 <p><a href="https://localhost:8080/link-proxy/?k=bd050c38&amp;r=1&amp;u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIwMzkzMzI0OA%3D%3D%26mid%3D2247487523%26idx%3D1%26sn%3Dc9013ca8544d7f9819f9a43519eab301%26chksm%3D96c6830ca1b10a1a0a5a7a9abb2b6df84d9fba160b5bdfcf6b199a4d472dc668816d5725191a%26scene%3D58%26subscene%3D0%23rd">跳转微信打开</a></p>
 ]]></content:encoded>
       <pubDate>Fri, 07 Mar 2025 07:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>雷军建议优化新能源汽车号牌设计，那大家看看全世界哪里的车牌好看</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487505&amp;idx=1&amp;sn=24211051d939988260e8c34b23ce8d55&amp;chksm=97656e68e5bdc5dd67b4782a856c307ec54f454c27f66f76796f1ca0bc4e21a2eae1f3fb7428&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Thu, 06 Mar 2025 07:28:18 +0800</pubDate>
     </item>
     <item>
       <title>雷军建议优化新能源汽车号牌设计，那大家看看全世界哪里的车牌好看</title>
