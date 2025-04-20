@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/3203933248.xml</link>
     <description>作者Allen，在职外企高级工程师。本号专注职业规划/技术科普/智能生活，有意咨询可以添加我的私人V信「coderallen」。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (CodeAllen嵌入式)</managingEditor>
-    <pubDate>Fri, 18 Apr 2025 07:28:12 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Apr 2025 07:28:12 +0800</lastBuildDate>
+    <pubDate>Sat, 19 Apr 2025 12:16:25 +0800</pubDate>
+    <lastBuildDate>Sat, 19 Apr 2025 12:16:25 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM45oN55eoqbW3EfUNOmTEDvTuFIuHO8EjlexxjOb9cUgQ/0</url>
       <title>CodeAllen嵌入式</title>
       <link>https://localhost:8080/feed/3203933248.xml</link>
     </image>
+    <item>
+      <title>分享8种stm32单片机常用的通信协议</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487900&amp;idx=1&amp;sn=cbb412c382cdf607ed83dc6566dc7b81&amp;chksm=977efba28db3f4d859664ca038efaea27bb50d8897abc3038f9f717437620fdb59287bf73ac7&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Sat, 19 Apr 2025 12:16:25 +0800</pubDate>
+    </item>
     <item>
       <title>嵌入式软件开发必看书籍推荐（C/C++/linux/软件）</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487898&amp;idx=1&amp;sn=89bd5ec922bcf7b6d3e730a4f5b518f0&amp;chksm=97c6bd1e5fb5d1cd2cee46778a01e9aa4fd5d4627d1549622987328ed1a7653eff6230b69143&amp;scene=58&amp;subscene=0#rd</link>
@@ -42,6 +48,12 @@
       <pubDate>Thu, 17 Apr 2025 07:29:25 +0800</pubDate>
     </item>
     <item>
+      <title>自学stm32需要会到什么程度能找到一份工作？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487895&amp;idx=1&amp;sn=45ab5f60837d9668609e0493250c57c5&amp;chksm=978739da269bb56d85a329e7e64e678abe25615c7e40d5ce11dae545229b8887ea92bacc421f&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
+      <pubDate>Thu, 17 Apr 2025 07:29:25 +0800</pubDate>
+    </item>
+    <item>
       <title>分享8个用stm32单片机做的黑科技产品</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487893&amp;idx=1&amp;sn=de73ab4a8365dafaf6a168fb19f20417&amp;chksm=9719e29cf5a731f7e1056db547c6580c91c8f49c4c540f9e8e0c243d0389054d4229f5975cae&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
@@ -62,6 +74,12 @@
     <item>
       <title>分享8个用stm32单片机做的黑科技产品</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487893&amp;idx=1&amp;sn=de73ab4a8365dafaf6a168fb19f20417&amp;chksm=97deb74e0c68cfc2503774dc36e11821b38f442e54f38776ad79ea98c46098fafa879871b91d&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Wed, 16 Apr 2025 05:17:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享8个用stm32单片机做的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487893&amp;idx=1&amp;sn=de73ab4a8365dafaf6a168fb19f20417&amp;chksm=977bdb61b7662c78ba20b475ffd23b1cd7bb9e2d1bee59784a2128571a82cdf946dee7cdf7b9&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
       <pubDate>Wed, 16 Apr 2025 05:17:31 +0800</pubDate>
     </item>
@@ -122,6 +140,12 @@
     <item>
       <title>分享5种嵌入式开发常用的数学原理</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487889&amp;idx=1&amp;sn=90e192292e3d44efe7aa7a519cc5e19b&amp;chksm=97dc1688c789555d6486feddc0071d18238b4ddb446e6ed3688893cd92faa93dd4ffabb1b838&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的基础数学算法。</description>
+      <pubDate>Mon, 14 Apr 2025 09:27:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享5种嵌入式开发常用的数学原理</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487889&amp;idx=1&amp;sn=90e192292e3d44efe7aa7a519cc5e19b&amp;chksm=978d6d90bf5f8284e261b8b76b02fe11e794b08d3cc5e4d255222cf97f108dc715036682c4ea&amp;scene=58&amp;subscene=0#rd</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的基础数学算法。</description>
       <pubDate>Mon, 14 Apr 2025 09:27:05 +0800</pubDate>
     </item>
@@ -192,6 +216,12 @@
       <pubDate>Sat, 12 Apr 2025 08:52:47 +0800</pubDate>
     </item>
     <item>
+      <title>找嵌入式软件工作，FreeRTOS 要掌握到什么程度？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487885&amp;idx=1&amp;sn=55116149c739445bd80f1ef8fcab5584&amp;chksm=97cc07113f25bf04c599be60daab3e515b3ac4d7566c3757c29db7914a03c3f3487cc99cc225&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普有关原创文章的allen康哥。最近看知乎，有个问题《找嵌入式软件工作，FreeRTOS 要掌握到什么程度？</description>
+      <pubDate>Sat, 12 Apr 2025 08:52:47 +0800</pubDate>
+    </item>
+    <item>
       <title>嵌入式工作会越来越少吗？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487883&amp;idx=1&amp;sn=37fc1ab1ee9c41b79f57ce0177f65719&amp;chksm=97fcdb5b041b5f72c4e72b8046be3a625940efebc2611cea6180d7b6b90a1a43e80928bf60bc&amp;scene=58&amp;subscene=0#rd</link>
       <description>大家好，我是专注分享职业规划/技术科普有关原创文章的allen康哥。</description>
@@ -258,6 +288,12 @@
       <pubDate>Thu, 10 Apr 2025 07:01:17 +0800</pubDate>
     </item>
     <item>
+      <title>嵌入式行业有哪些不错的公司(2024版)</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487881&amp;idx=1&amp;sn=4349ab389c69ad602c1591e9fc7f00de&amp;chksm=97bd6c7750df25c6ec9dda5550da5def355b76230ad2a8d555c40d77785dba4e5f7bab34654d&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普有关原创文章的allen康哥。嵌入式作为目前比较火的一个技术方向，很多同学向我咨询有什么不错的公司可以参考。</description>
+      <pubDate>Thu, 10 Apr 2025 07:01:17 +0800</pubDate>
+    </item>
+    <item>
       <title>GitHub嵌入式好项目总结（更新至50个）</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487879&amp;idx=1&amp;sn=200f8e7393604b3e32a9fe1c22f47e83&amp;chksm=975fce4db19f6dcb765f1c227568af5cef7150e7c4884a1bfa258da3d01db920d52daf1b36ac&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
@@ -320,6 +356,12 @@
     <item>
       <title>GitHub嵌入式好项目总结（更新至50个）</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487879&amp;idx=1&amp;sn=200f8e7393604b3e32a9fe1c22f47e83&amp;chksm=97253a1fdff6f99257e8bd695b9afde119e8c0b05f80f36cb409031c4027b637dbf965b267f5&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Wed, 09 Apr 2025 07:31:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>GitHub嵌入式好项目总结（更新至50个）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487879&amp;idx=1&amp;sn=200f8e7393604b3e32a9fe1c22f47e83&amp;chksm=97d9134ed5ec90bca7862430e7ece98d080b753f4054c39683d413f772c0dd57b9be26526d0b&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
       <pubDate>Wed, 09 Apr 2025 07:31:49 +0800</pubDate>
     </item>
@@ -408,6 +450,12 @@
       <pubDate>Thu, 03 Apr 2025 07:38:31 +0800</pubDate>
     </item>
     <item>
+      <title>分享8种stm32单片机常用的通信协议</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487855&amp;idx=1&amp;sn=ba4a24c389bb7de50507df229b9019dd&amp;chksm=97172b44dfb08d1835820917c54a498732bb1c7d3c68df942f715d913f01a8769516cfff21ac&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Thu, 03 Apr 2025 07:38:31 +0800</pubDate>
+    </item>
+    <item>
       <title>分享8个用stm32单片机做的黑科技产品</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487853&amp;idx=1&amp;sn=f64884c3027ce9ca86893c905692b90b&amp;chksm=978709141733bf2a116f94f161dd610107a7df1d896662ddf185ef9e2553962fe916fadec92e&amp;scene=58&amp;subscene=0#rd</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天分享8个用stm32做的黑科技产品。</description>
@@ -476,6 +524,12 @@
     <item>
       <title>分享8个用stm32单片机做的黑科技产品</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487853&amp;idx=1&amp;sn=f64884c3027ce9ca86893c905692b90b&amp;chksm=975addf37b7155172b76b50a207045b569055a6f2fec02945981d5194e6356fde3513bba790d&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天分享8个用stm32做的黑科技产品。</description>
+      <pubDate>Wed, 02 Apr 2025 07:36:37 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享8个用stm32单片机做的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487853&amp;idx=1&amp;sn=f64884c3027ce9ca86893c905692b90b&amp;chksm=97e76e9a3cf79f29971f18d9c889d193b10d56d11179062f04be62e2f4948966e76a556993b0&amp;scene=58&amp;subscene=0#rd</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天分享8个用stm32做的黑科技产品。</description>
       <pubDate>Wed, 02 Apr 2025 07:36:37 +0800</pubDate>
     </item>
@@ -552,6 +606,12 @@
       <pubDate>Tue, 01 Apr 2025 07:22:18 +0800</pubDate>
     </item>
     <item>
+      <title>单片机、嵌入式的大神都平时浏览什么网站？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487851&amp;idx=1&amp;sn=899ec73e3c23195cf959f4ec8d83de04&amp;chksm=97bf58e97335cb901f2524c9ab8a0c5a38fc3a8353b8adf6da37f3ca9b0848eea403d7408602&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Tue, 01 Apr 2025 07:22:18 +0800</pubDate>
+    </item>
+    <item>
       <title>分享10个应用PID控制算法的黑科技产品</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487838&amp;idx=1&amp;sn=d4b87d4f830feeff0ed4ac7ec509d08c&amp;chksm=97abbebfdad27c4d54f6121f8ca9c56922625e24336aa4ff2f1151920a15e638c44faa0a71b4&amp;scene=58&amp;subscene=0#rd</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
@@ -620,6 +680,12 @@
     <item>
       <title>分享10个应用PID控制算法的黑科技产品</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487838&amp;idx=1&amp;sn=d4b87d4f830feeff0ed4ac7ec509d08c&amp;chksm=97b68725792b929a787c821f04a56c09544525a7ce8e9d890838997a5eb46bafae7d4a5bb207&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
+      <pubDate>Thu, 27 Mar 2025 07:01:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享10个应用PID控制算法的黑科技产品</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487838&amp;idx=1&amp;sn=d4b87d4f830feeff0ed4ac7ec509d08c&amp;chksm=971c5c97d38650df59323ccc04ba1b490cef5f42ff065a389ec793d0ab3107a9b58f1922daa8&amp;scene=58&amp;subscene=0#rd</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Thu, 27 Mar 2025 07:01:52 +0800</pubDate>
     </item>
@@ -696,6 +762,12 @@
       <pubDate>Wed, 26 Mar 2025 07:06:31 +0800</pubDate>
     </item>
     <item>
+      <title>分享5种嵌入式开发常用的数学原理</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487823&amp;idx=1&amp;sn=eaba8d4d81fb49af1a707da39a3230df&amp;chksm=97bcc48081fe3daaf591ce9bd5a62175d6f160bb0670ad0107fd9d2cb5842927015438cad0d8&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的基础数学算法。</description>
+      <pubDate>Wed, 26 Mar 2025 07:06:31 +0800</pubDate>
+    </item>
+    <item>
       <title>分享5种嵌入式开发常用的滤波算法</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487802&amp;idx=1&amp;sn=b25dd5a4c082adbfc211ceafc4e78d4f&amp;chksm=977da64c8f7442415b8407063d8b914059cb9b5fdc79947afa0e19e9f50c6c4fb5b59c598ec0&amp;scene=58&amp;subscene=0#rd</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的信号处理与滤波算法。</description>
@@ -764,6 +836,12 @@
     <item>
       <title>分享5种嵌入式开发常用的滤波算法</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487802&amp;idx=1&amp;sn=b25dd5a4c082adbfc211ceafc4e78d4f&amp;chksm=97b9f7586f4cb1f7821f37cea822316fe96a41a0854590c2623a0a50c07442af6be31d24cb97&amp;scene=58&amp;subscene=0#rd</link>
+      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的信号处理与滤波算法。</description>
+      <pubDate>Tue, 25 Mar 2025 06:44:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享5种嵌入式开发常用的滤波算法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487802&amp;idx=1&amp;sn=b25dd5a4c082adbfc211ceafc4e78d4f&amp;chksm=97ecc7e0d9821655638d14ccfd2a1c567f13e01125c60e3e22ee0d8bf4023aa851a519b92119&amp;scene=58&amp;subscene=0#rd</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的信号处理与滤波算法。</description>
       <pubDate>Tue, 25 Mar 2025 06:44:34 +0800</pubDate>
     </item>
@@ -866,6 +944,12 @@
       <pubDate>Mon, 24 Mar 2025 07:44:47 +0800</pubDate>
     </item>
     <item>
+      <title>分享下STM32单片机的18年发展史</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487788&amp;idx=1&amp;sn=5c75dd0fe842b85dac0720db4378681c&amp;chksm=97367bcdc3924ef51a9f010fdebaa8f7cd11a71337cb9cde1a62d2758a5e11bdad038eff1f18&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Mon, 24 Mar 2025 07:44:47 +0800</pubDate>
+    </item>
+    <item>
       <title>经常使用单片机的同学，你知道单片机的发展历史吗？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487767&amp;idx=1&amp;sn=ed1b729c916c08f6745b4a8a9338efff&amp;chksm=96c68238a1b10b2ea0fa2d8472608680debfb6066b136d242d638ec28114b6632edb086f2c76&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
@@ -960,6 +1044,12 @@
     <item>
       <title>分享6个嵌入式开发中人工智能的应用</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487752&amp;idx=1&amp;sn=4c05fd89053da13198ce3edaa21b57ae&amp;chksm=97fd92db1ccd4cd704e1fcd25a623cf417e525dace89a9da979f1602653de6c1c40f5555488b&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Sat, 22 Mar 2025 08:11:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享6个嵌入式开发中人工智能的应用</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487752&amp;idx=1&amp;sn=4c05fd89053da13198ce3edaa21b57ae&amp;chksm=97e7612513e9fc6e007674741046b2e37871a41e0a506fb887df4fbd391b645816520357f9d7&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
       <pubDate>Sat, 22 Mar 2025 08:11:03 +0800</pubDate>
     </item>
@@ -1114,6 +1204,12 @@
       <pubDate>Thu, 20 Mar 2025 09:08:49 +0800</pubDate>
     </item>
     <item>
+      <title>什么是嵌入式RTOS，为什么单片机开发需要RTOS？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487715&amp;idx=1&amp;sn=e24efa47c8b75dc8b48936d7d6d34dc8&amp;chksm=976b6d9c5b797debc1e79275ed47279327a84adcdc78d29fd705c7f560883f901cb699325b19&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Thu, 20 Mar 2025 09:08:49 +0800</pubDate>
+    </item>
+    <item>
       <title>分享8种stm32单片机常用的通信协议</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487693&amp;idx=1&amp;sn=4d7d79731e4561143ad43527acb15b76&amp;chksm=97e10709bf6155e4dcdc498f6960c029a20d698bd79cd84f60d67c0b7c3336b389bfea3a67f9&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
@@ -1187,6 +1283,12 @@
     </item>
     <item>
       <title>分享8种stm32单片机常用的通信协议</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487693&amp;idx=1&amp;sn=4d7d79731e4561143ad43527acb15b76&amp;chksm=972210bb26f4273788356220880ea3f860a22c5e46a0c966d3cd1ff1c1c5fc69017e58a5e77f&amp;scene=58&amp;subscene=0#rd</link>
+      <description></description>
+      <pubDate>Wed, 19 Mar 2025 07:45:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>分享8种stm32单片机常用的通信协议</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487693&amp;idx=1&amp;sn=4d7d79731e4561143ad43527acb15b76&amp;chksm=96c683e2a1b10af4236af12c056b3c88adaae46da5dd7de72a05db374b38b6696ab4ba8414f8&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
       <content:encoded><![CDATA[<p>
@@ -1248,108 +1350,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=97ff8554794115c6c090b66d39aa9116762ee5d7cecc63e43073c46a18d3e5174934906a9522&amp;scene=58&amp;subscene=0#rd</link>
       <description></description>
       <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=97f3e513d8b628d25bd90e20536ea09abe864724ed412009c02f35e6412088b377f8d6e7e611&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=97682c09ae758afcdeb75cf8c1a2c040b8d6c75396b84e677e7bae9c1d584d85fe10557df7a1&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=9707e2d38476c72f358dbcf2c9a07672db56c37ff2c1af7779f89a2a246b7e51edbc5cb32fd4&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=97ddf12b6f8a65a4ac2093f65e240bd4df43c7fe8e3f32df68809b2b3780358cd5592cd727e4&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=97fb5ce9973f424b9c292c23a6d8993cfddc1592da784fe4764a8919a7589c9e17ee247db008&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=97f4c3991f138a8f7a79ff249ffdf925c7c291c8a13b4ee1f3fad2157f0e147fd1ab1e3cf7a8&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=972f56f7f96dc24b2db317d6be8d62d71f59c7f43af127148893bed340b55acb00d673179162&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=9729eb82c425cfd1933ae749cf43fb11c39196ddc513d3e2a9e1286b5766bd6562b3126142a3&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=97ee4eecdef84d8a260d17f8ebee2552f29e78daa3c367d605a4308d91c3fff680c25046ec2a&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;chksm=979d22d0068fc542b1204bd77bacf1f59d058eb880dca17fb803afa86904a36db7306a19b30e&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>PCB常用分层设计介绍，4层/6层/8层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=97abacf38fe227034c939b10024f666cf908fd7ffca3cee00112c72acb4faefa54f61b91e463&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>PCB常用分层设计介绍，4层/6层/8层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=971de6728b286234af2ed801f37de9079e231280bad65ee0108850429ec7b17af13ccda0d80a&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>PCB常用分层设计介绍，4层/6层/8层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=975bd2baa589cb9394889566f852103b50a3b0f27f5061537f94a90130bd8a46d529463743da&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>PCB常用分层设计介绍，4层/6层/8层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=979e95b246a50e2922dee5efca8085f7cf54dc896f1950a62f69bce3b130162a3fec142a1e17&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>PCB常用分层设计介绍，4层/6层/8层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=97801158e2cef51340394bd1c613010a838c3c80544ed40c123c0e5f738b005d86f56171d201&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>PCB常用分层设计介绍，4层/6层/8层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=97177052846c1596ef5d0377681f7c1cd62f48ea77ee0e20274891a2d248d0f4bd05ff9dc464&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>PCB常用分层设计介绍，4层/6层/8层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;chksm=975dbdcc4bb605e71bc5df587e017a3606dedc0acffd4b66aa5dc8b412c761248b40857d9206&amp;scene=58&amp;subscene=0#rd</link>
-      <description></description>
-      <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
