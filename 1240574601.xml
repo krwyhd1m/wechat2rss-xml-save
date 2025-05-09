@@ -4,13 +4,37 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 09 May 2025 15:15:51 +0800</pubDate>
-    <lastBuildDate>Fri, 09 May 2025 15:15:51 +0800</lastBuildDate>
+    <pubDate>Fri, 09 May 2025 18:38:30 +0800</pubDate>
+    <lastBuildDate>Fri, 09 May 2025 18:38:30 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>详讯 | 习近平出席俄罗斯纪念苏联伟大卫国战争胜利80周年庆典</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781280&amp;idx=1&amp;sn=9f39bfc399cbdf7409bbc405b9f98e01&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Fri, 09 May 2025 18:38:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>明起，领证不用户口本了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781272&amp;idx=1&amp;sn=0c0ddcbb2928751e373a86cdbf1ae2bf&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Fri, 09 May 2025 17:50:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>独家视频 | 习近平出席俄罗斯纪念苏联伟大卫国战争胜利80周年庆典</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781270&amp;idx=1&amp;sn=097cb36e13f72a7bef151bfd85589dfb&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Fri, 09 May 2025 16:53:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>“中国排面”，亮相莫斯科红场！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781229&amp;idx=1&amp;sn=3c2c3426704a6a0aea66fa728ed9b87b&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Fri, 09 May 2025 16:14:23 +0800</pubDate>
+    </item>
     <item>
       <title>习近平出席俄罗斯纪念苏联伟大卫国战争胜利80周年庆典</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781118&amp;idx=1&amp;sn=421a228308a193a07264cb46596158e1&amp;subscene=0</link>
@@ -1186,30 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657771980&amp;idx=1&amp;sn=31cf44a82f01f24165dce209e28fe59a&amp;subscene=0</link>
       <description></description>
       <pubDate>Tue, 15 Apr 2025 18:44:38 +0800</pubDate>
-    </item>
-    <item>
-      <title>殷美根，死缓</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657771929&amp;idx=1&amp;sn=942a3fffea7c932173559c17e3d0bae7&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 17:16:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>习近平圆满结束对越南的国事访问</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657771867&amp;idx=1&amp;sn=91768dabff27b133df8560d303068024&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 16:18:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>推进内外贸一体联动，这家零售商超火速上架外贸优品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657771814&amp;idx=1&amp;sn=645f816ff70d4d36fc0bce06afb272cc&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 15:45:42 +0800</pubDate>
-    </item>
-    <item>
-      <title>向间谍发送投靠邮件！某部委员工叛逃前被抓</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657771807&amp;idx=1&amp;sn=6ceb3887852eeb260464137e6982f653&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 15:22:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
