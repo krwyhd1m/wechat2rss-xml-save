@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 09 May 2025 12:38:33 +0800</pubDate>
-    <lastBuildDate>Fri, 09 May 2025 12:38:33 +0800</lastBuildDate>
+    <pubDate>Fri, 09 May 2025 15:15:51 +0800</pubDate>
+    <lastBuildDate>Fri, 09 May 2025 15:15:51 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>习近平出席俄罗斯纪念苏联伟大卫国战争胜利80周年庆典</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781118&amp;idx=1&amp;sn=421a228308a193a07264cb46596158e1&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Fri, 09 May 2025 15:15:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>适当饿一饿，对身体有这些好处</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781095&amp;idx=1&amp;sn=648601853dd053f9d2e61e7657e7921e&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Fri, 09 May 2025 13:48:31 +0800</pubDate>
+    </item>
     <item>
       <title>广东100多个暴雨预警生效中！紧急提醒→</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781093&amp;idx=1&amp;sn=da2c99a581027246892353c3ae9918a6&amp;subscene=0</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657771807&amp;idx=1&amp;sn=6ceb3887852eeb260464137e6982f653&amp;subscene=0</link>
       <description></description>
       <pubDate>Tue, 15 Apr 2025 15:22:53 +0800</pubDate>
-    </item>
-    <item>
-      <title>食道被药“割烂”，只因一个错误习惯！很多人都爱这么干</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657771659&amp;idx=1&amp;sn=aaabded80683bdabd455bce1c7f6ab5a&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 12:54:30 +0800</pubDate>
-    </item>
-    <item>
-      <title>五一假期购票日历来啦！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657771590&amp;idx=1&amp;sn=fd45b2c7d4317bd86569e4cd0a33a844&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 10:51:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
