@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 09 May 2025 23:15:50 +0800</pubDate>
-    <lastBuildDate>Fri, 09 May 2025 23:15:50 +0800</lastBuildDate>
+    <pubDate>Sat, 10 May 2025 07:28:59 +0800</pubDate>
+    <lastBuildDate>Sat, 10 May 2025 07:28:59 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>针对隐藏式车门把手安全问题，工信部出手了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781351&amp;idx=1&amp;sn=4f0654c5fd9102aea206c72cbfec57ed&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sat, 10 May 2025 07:28:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>早啊！新闻来了〔2025.05.10〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781336&amp;idx=1&amp;sn=f784700ef11ce0948d5817c99b903076&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sat, 10 May 2025 05:50:35 +0800</pubDate>
+    </item>
     <item>
       <title>习近平会见塞尔维亚总统武契奇</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781315&amp;idx=1&amp;sn=4f7e6f1f5beabffa09dd1ad54245214c&amp;subscene=0</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772052&amp;idx=1&amp;sn=c5e7cf995354aab81dbefacfaa7d9ba8&amp;subscene=0</link>
       <description></description>
       <pubDate>Tue, 15 Apr 2025 22:22:55 +0800</pubDate>
-    </item>
-    <item>
-      <title>要不要换物业？近4万人超大小区如何解决这个难题？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772051&amp;idx=1&amp;sn=1d6736f329985bdb80c3033a25db504b&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 21:58:09 +0800</pubDate>
-    </item>
-    <item>
-      <title>硬核测试完，这台车真是太香了🤩</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772051&amp;idx=2&amp;sn=3cb83c5d49360ed3a99a0c7594919d8f&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 21:58:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
