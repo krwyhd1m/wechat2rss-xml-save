@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sat, 10 May 2025 14:31:38 +0800</pubDate>
-    <lastBuildDate>Sat, 10 May 2025 14:31:38 +0800</lastBuildDate>
+    <pubDate>Sat, 10 May 2025 16:56:35 +0800</pubDate>
+    <lastBuildDate>Sat, 10 May 2025 16:56:35 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>中美经贸高层会谈开始举行</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781601&amp;idx=1&amp;sn=1324383db605dc861ebcb0a8443bce08&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sat, 10 May 2025 16:56:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>习近平圆满结束对俄罗斯国事访问并出席纪念苏联伟大卫国战争胜利80周年庆典</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781590&amp;idx=1&amp;sn=703791d244c35b3a83b0653121abc9cb&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sat, 10 May 2025 16:44:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>网络主播直播战斗机引来境外间谍，国安部披露→</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781545&amp;idx=1&amp;sn=87da519ceffd6e9ecf91d8e4ee571beb&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sat, 10 May 2025 16:23:13 +0800</pubDate>
+    </item>
     <item>
       <title>“本科生发14篇SCI论文”？重庆大学通报：存在学术不端行为</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781493&amp;idx=1&amp;sn=1d3dd3a4d8c2eac530dcdf3a8541dc07&amp;subscene=0</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772168&amp;idx=1&amp;sn=a12bc7788108bf0bbe5abcc9cec302d0&amp;subscene=0</link>
       <description></description>
       <pubDate>Wed, 16 Apr 2025 15:48:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>习近平会见马来西亚最高元首易卜拉欣</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772160&amp;idx=1&amp;sn=eca8658f2105f88c3cf23556cc5a31d7&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 16 Apr 2025 14:55:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>渔民老陈捞到“谍鱼”，立功了！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772138&amp;idx=1&amp;sn=9c5eba771d3b4510d40e0e9d86965332&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 16 Apr 2025 13:21:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>山西“订婚强奸案”7问7答！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772105&amp;idx=1&amp;sn=f29d7f88b021222a5ccb655a8bdfb380&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 16 Apr 2025 11:19:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
