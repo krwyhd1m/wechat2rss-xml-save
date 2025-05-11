@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sun, 11 May 2025 21:50:46 +0800</pubDate>
-    <lastBuildDate>Sun, 11 May 2025 21:50:46 +0800</lastBuildDate>
+    <pubDate>Mon, 12 May 2025 05:42:23 +0800</pubDate>
+    <lastBuildDate>Mon, 12 May 2025 05:42:23 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.05.12〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782021&amp;idx=1&amp;sn=e67e89ea4175a949c7bc89c96a377e69&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Mon, 12 May 2025 05:42:23 +0800</pubDate>
+    </item>
     <item>
       <title>这样走路，才健康！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782010&amp;idx=1&amp;sn=f76e315f4bce7d0045847d40a9774631&amp;subscene=0</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772610&amp;idx=1&amp;sn=2280c8bd1724838ce8a88109a696f1a2&amp;subscene=0</link>
       <description></description>
       <pubDate>Thu, 17 Apr 2025 17:24:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>一只卤鹅如何打动世界“味蕾”？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772596&amp;idx=1&amp;sn=263e85aa897f44ce1a9866e11da9fc66&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 17 Apr 2025 16:54:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
