@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sun, 11 May 2025 09:39:45 +0800</pubDate>
-    <lastBuildDate>Sun, 11 May 2025 09:39:45 +0800</lastBuildDate>
+    <pubDate>Sun, 11 May 2025 16:33:13 +0800</pubDate>
+    <lastBuildDate>Sun, 11 May 2025 16:33:13 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>一条鱼的两次关税战</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781880&amp;idx=1&amp;sn=0281f3f40d5e84daccc21c8889af2f15&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sun, 11 May 2025 16:33:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>熬夜能减肥？不吃油脂才健康？这些误区要避开→</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781842&amp;idx=1&amp;sn=b925457142c74568c17af662bd45b3f3&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sun, 11 May 2025 14:23:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>印度称巴方违反停火协议，巴方否认！王毅分别同双方通电话</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781841&amp;idx=1&amp;sn=5046fde59d7402026217eced3d51d7e4&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sun, 11 May 2025 12:50:23 +0800</pubDate>
+    </item>
     <item>
       <title>“宝贝，我要在能爱的时候，尽情去爱你！”</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781754&amp;idx=1&amp;sn=f697833084f5e7a269cf7f0fb230343b&amp;subscene=0</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772398&amp;idx=1&amp;sn=ae0bd3656a688eb85454baf03a852c0b&amp;subscene=0</link>
       <description></description>
       <pubDate>Thu, 17 Apr 2025 13:25:41 +0800</pubDate>
-    </item>
-    <item>
-      <title>全美首例！加州起诉特朗普政府</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772360&amp;idx=1&amp;sn=cb6baa24894201d5b34e75447c9de849&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 17 Apr 2025 10:42:37 +0800</pubDate>
-    </item>
-    <item>
-      <title>唐仁健被提起公诉</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772356&amp;idx=1&amp;sn=9ce973c77d507bdd223ea47673fd0b8b&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 17 Apr 2025 10:14:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>美股再度大跌！美联储主席：强烈警告！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772318&amp;idx=1&amp;sn=5be7d3608903815d1d3bd93613adf856&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 17 Apr 2025 08:58:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
