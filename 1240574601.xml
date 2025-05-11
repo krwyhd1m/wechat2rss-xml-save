@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sun, 11 May 2025 16:33:13 +0800</pubDate>
-    <lastBuildDate>Sun, 11 May 2025 16:33:13 +0800</lastBuildDate>
+    <pubDate>Sun, 11 May 2025 21:50:46 +0800</pubDate>
+    <lastBuildDate>Sun, 11 May 2025 21:50:46 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>这样走路，才健康！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782010&amp;idx=1&amp;sn=f76e315f4bce7d0045847d40a9774631&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sun, 11 May 2025 21:50:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>“长大后，我要带她看全世界”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781951&amp;idx=1&amp;sn=c3197df6e2db7ebfc8e800bd763d5dcd&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sun, 11 May 2025 20:45:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>夏天防晒，很多人都忽略了这个部位！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781897&amp;idx=1&amp;sn=b08bd93b52b66de2457b072c5cd415e5&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Sun, 11 May 2025 18:01:51 +0800</pubDate>
+    </item>
     <item>
       <title>一条鱼的两次关税战</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781880&amp;idx=1&amp;sn=0281f3f40d5e84daccc21c8889af2f15&amp;subscene=0</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772596&amp;idx=1&amp;sn=263e85aa897f44ce1a9866e11da9fc66&amp;subscene=0</link>
       <description></description>
       <pubDate>Thu, 17 Apr 2025 16:54:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>英伟达CEO黄仁勋到访北京：希望继续与中国合作</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772521&amp;idx=1&amp;sn=4276f477f6261be6eb235cf15b74657a&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 17 Apr 2025 15:55:14 +0800</pubDate>
-    </item>
-    <item>
-      <title>杨小伟被查</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772416&amp;idx=1&amp;sn=92eb8c615e3c9b31d387f4f7c3e1ead6&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 17 Apr 2025 15:07:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>独家视频 | 习近平抵达金边对柬埔寨进行国事访问</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772398&amp;idx=1&amp;sn=ae0bd3656a688eb85454baf03a852c0b&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 17 Apr 2025 13:25:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
