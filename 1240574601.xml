@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Mon, 12 May 2025 22:51:07 +0800</pubDate>
-    <lastBuildDate>Mon, 12 May 2025 22:51:07 +0800</lastBuildDate>
+    <pubDate>Tue, 13 May 2025 05:42:37 +0800</pubDate>
+    <lastBuildDate>Tue, 13 May 2025 05:42:37 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.05.13〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782291&amp;idx=1&amp;sn=8819ffda0f2da1613a386a341368bea2&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Tue, 13 May 2025 05:42:37 +0800</pubDate>
+    </item>
     <item>
       <title>突然发现爱出门的人，能量都很高</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782287&amp;idx=1&amp;sn=db9fdad58a2717a8e0e0c3e4eda8369a&amp;subscene=0</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772969&amp;idx=1&amp;sn=bf8cb4f54ccfafe295e08b2ac58d8aa9&amp;subscene=0</link>
       <description></description>
       <pubDate>Fri, 18 Apr 2025 18:34:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>被控受贿2.29亿余元！窦万贵案一审开庭</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772933&amp;idx=1&amp;sn=02a451e089485e492e41912a91e9f853&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Fri, 18 Apr 2025 17:22:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
