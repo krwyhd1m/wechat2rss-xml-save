@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Mon, 12 May 2025 19:04:26 +0800</pubDate>
-    <lastBuildDate>Mon, 12 May 2025 19:04:26 +0800</lastBuildDate>
+    <pubDate>Mon, 12 May 2025 22:51:07 +0800</pubDate>
+    <lastBuildDate>Mon, 12 May 2025 22:51:07 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>突然发现爱出门的人，能量都很高</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782287&amp;idx=1&amp;sn=db9fdad58a2717a8e0e0c3e4eda8369a&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Mon, 12 May 2025 22:51:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>主食吃太少易患糖尿病，还会引发这些健康问题！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782283&amp;idx=1&amp;sn=2a0697ca211183cc3b10f99f3f8b4aa8&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Mon, 12 May 2025 22:33:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>40℃要来了！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782269&amp;idx=1&amp;sn=015fe78272266b28314c75d685e5dac5&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Mon, 12 May 2025 21:33:18 +0800</pubDate>
+    </item>
     <item>
       <title>血栓最怕这5类食物，告诉家人要多吃！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782223&amp;idx=1&amp;sn=3d581eafab7b5c0f89dfe30dce222ee8&amp;subscene=0</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772933&amp;idx=1&amp;sn=02a451e089485e492e41912a91e9f853&amp;subscene=0</link>
       <description></description>
       <pubDate>Fri, 18 Apr 2025 17:22:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>习近平回到北京</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772910&amp;idx=1&amp;sn=f67082b4f2c96e477cf854f2cd5a36f9&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Fri, 18 Apr 2025 16:51:02 +0800</pubDate>
-    </item>
-    <item>
-      <title>下周上班时间有变化！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772897&amp;idx=1&amp;sn=a2000704adbd8311180f824f3e4773be&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Fri, 18 Apr 2025 16:11:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>独家视频 | 习近平圆满结束对柬埔寨的国事访问</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657772843&amp;idx=1&amp;sn=93f06ac69b0efb2108734cee1ca05b0b&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Fri, 18 Apr 2025 14:46:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
