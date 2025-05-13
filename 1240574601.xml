@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Tue, 13 May 2025 20:09:33 +0800</pubDate>
-    <lastBuildDate>Tue, 13 May 2025 20:09:33 +0800</lastBuildDate>
+    <pubDate>Tue, 13 May 2025 23:45:05 +0800</pubDate>
+    <lastBuildDate>Tue, 13 May 2025 23:45:05 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>5月14日12时01分起 调整对美加征关税措施</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782654&amp;idx=1&amp;sn=34e7192f3848a96af0e4a969bc2cfc71&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Tue, 13 May 2025 23:45:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>父母的终极使命，是发现孩子所长</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782590&amp;idx=1&amp;sn=2ef73fea481c096f4afc9ca62e6cd713&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Tue, 13 May 2025 21:06:34 +0800</pubDate>
+    </item>
     <item>
       <title>习近平同巴西总统卢拉会谈</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782576&amp;idx=1&amp;sn=8580c45bb93984349935db487074b318&amp;subscene=0</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657773530&amp;idx=1&amp;sn=827797115a83cb09a89033cc54585885&amp;subscene=0</link>
       <description></description>
       <pubDate>Sat, 19 Apr 2025 19:05:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>瞬间爆炸，家被烧光！看完想立刻回家拔插头……</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657773438&amp;idx=1&amp;sn=a10138b7efe5d996647d15a50a8ea545&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Sat, 19 Apr 2025 17:52:02 +0800</pubDate>
-    </item>
-    <item>
-      <title>出现这4个症状，请立刻停下来休息！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657773374&amp;idx=1&amp;sn=b85cbd9168c84e115a42e0d6c77cc610&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Sat, 19 Apr 2025 15:52:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
