@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Tue, 13 May 2025 23:45:05 +0800</pubDate>
-    <lastBuildDate>Tue, 13 May 2025 23:45:05 +0800</lastBuildDate>
+    <pubDate>Wed, 14 May 2025 05:41:03 +0800</pubDate>
+    <lastBuildDate>Wed, 14 May 2025 05:41:03 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.05.14〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782658&amp;idx=1&amp;sn=f2d543e05f106c867c3aee44201326f3&amp;subscene=0</link>
+      <description></description>
+      <pubDate>Wed, 14 May 2025 05:41:03 +0800</pubDate>
+    </item>
     <item>
       <title>5月14日12时01分起 调整对美加征关税措施</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782654&amp;idx=1&amp;sn=34e7192f3848a96af0e4a969bc2cfc71&amp;subscene=0</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657773535&amp;idx=1&amp;sn=748e80143b66b184f9a1e11ac6d0d7ee&amp;subscene=0</link>
       <description></description>
       <pubDate>Sat, 19 Apr 2025 19:35:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>女子伸腿阻止高铁关门！官方通报→</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657773530&amp;idx=1&amp;sn=827797115a83cb09a89033cc54585885&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Sat, 19 Apr 2025 19:05:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
