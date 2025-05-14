@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Wed, 14 May 2025 21:38:32 +0800</pubDate>
-    <lastBuildDate>Wed, 14 May 2025 21:38:32 +0800</lastBuildDate>
+    <pubDate>Thu, 15 May 2025 05:40:59 +0800</pubDate>
+    <lastBuildDate>Thu, 15 May 2025 05:40:59 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.05.15〕</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783045&amp;idx=1&amp;sn=cf6e4dc9b7a82cc9520bbc084d328e6c</link>
+      <description></description>
+      <pubDate>Thu, 15 May 2025 05:40:59 +0800</pubDate>
+    </item>
     <item>
       <title>15个成本很低，但能快速恢复精力的方法</title>
       <link>http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783011&amp;idx=1&amp;sn=327d09f85f855faab6c0a571b0bbc8f5</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657774573&amp;idx=1&amp;sn=9bcb0a28c7b5bcb36e53c8767bd4981e&amp;subscene=0</link>
       <description></description>
       <pubDate>Wed, 23 Apr 2025 07:01:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>早啊！新闻来了〔2025.04.23〕</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657774569&amp;idx=1&amp;sn=ae21541c2b4ed94433bdad94bf248198&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 23 Apr 2025 05:40:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
