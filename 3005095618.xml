@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Tue, 13 May 2025 13:06:18 +0800</pubDate>
-    <lastBuildDate>Tue, 13 May 2025 13:06:18 +0800</lastBuildDate>
+    <pubDate>Wed, 14 May 2025 09:50:38 +0800</pubDate>
+    <lastBuildDate>Wed, 14 May 2025 09:50:38 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>电子的“自旋舞蹈”：微观世界的优雅演出 | 科到了</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651569777&amp;idx=1&amp;sn=dadf06896f830eb7c5059fec35059083</link>
+      <description></description>
+      <pubDate>Wed, 14 May 2025 09:50:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>恐龙带娃比人类还卷！？来看看初代地球霸主的“育儿经”→</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651569777&amp;idx=2&amp;sn=41f8575f0089dddb7205a3726e17a2d2</link>
+      <description>“慈母手中线，游子身上衣”，唐代孟郊的《游子吟》道尽母爱的细腻与深沉。让我们把目光投向遥远的中生代。身为中生</description>
+      <pubDate>Wed, 14 May 2025 09:50:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>宇宙点金之法大揭秘！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651569777&amp;idx=3&amp;sn=b091891e018c371e88b99ce85ad4641e</link>
+      <description>一颗高度磁化的中子星的外壳发生破裂（如该艺术想象图所示）可能会引发高能爆发。图片来源：NASA戈达德太空飞行</description>
+      <pubDate>Wed, 14 May 2025 09:50:38 +0800</pubDate>
+    </item>
     <item>
       <title>科学研究的“无用”之用</title>
       <link>http://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651569554&amp;idx=1&amp;sn=d503924f01628732911f3b921f739e05</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651564994&amp;idx=2&amp;sn=ab20757b2d4166097761f4f527174cf2&amp;subscene=0</link>
       <description>这就相当于你拿着一个漏勺，把整个太平洋的水都往瓶子里倒，但瓶子底部却有个大洞，最后你只留下了一滴水。丁雪峰</description>
       <pubDate>Mon, 31 Mar 2025 12:16:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>“零添加”到底是不添加什么？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651564994&amp;idx=3&amp;sn=deb364366c86be1043d5026dd0657a45&amp;subscene=0</link>
-      <description>2025年3月27日，国家卫生健康委联合市场监管总局发布的新版食品安全标准引发广泛关注。</description>
-      <pubDate>Mon, 31 Mar 2025 12:16:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>第二届原子级制造论坛在北京召开</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651564921&amp;idx=1&amp;sn=3b6f9568121d23cfbe0dc0b8ab3f687a&amp;subscene=0</link>
-      <description>3月30日，第二届原子级制造论坛在北京成功召开。</description>
-      <pubDate>Sun, 30 Mar 2025 21:18:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>Kagome FeGe中非常规电荷密度波的电荷动力学研究 | 进展</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651564899&amp;idx=1&amp;sn=804fb3e034a069748d6729ee2ba3e624&amp;subscene=0</link>
-      <description>新发现澄清了FeGe中非常规CDW的起源，揭示了其中结构、磁性和电荷序之间协同作用，为理解磁性Kagome材料中的量子现象提供了新的视角。</description>
-      <pubDate>Sun, 30 Mar 2025 17:01:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
