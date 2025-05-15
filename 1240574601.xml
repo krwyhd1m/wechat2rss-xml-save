@@ -4,13 +4,37 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Thu, 15 May 2025 05:40:59 +0800</pubDate>
-    <lastBuildDate>Thu, 15 May 2025 05:40:59 +0800</lastBuildDate>
+    <pubDate>Thu, 15 May 2025 13:22:01 +0800</pubDate>
+    <lastBuildDate>Thu, 15 May 2025 13:22:01 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>抓住黄金4分钟，小伙的急救有多关键？这些救命技能要学会→</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783142&amp;idx=1&amp;sn=c773a37ff3eed7ca5369698d417a4f81</link>
+      <description></description>
+      <pubDate>Thu, 15 May 2025 13:22:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>多次故意将孩子遗弃在地铁站！男子被判刑</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783135&amp;idx=1&amp;sn=9d0da034a4e073b04b7217434a5a9413</link>
+      <description></description>
+      <pubDate>Thu, 15 May 2025 11:50:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>时隔3年，俄乌直接谈判有望重启！谁参加？谈什么？</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783095&amp;idx=1&amp;sn=d256c3d1e48d88c0ebe55df5b6f05d97</link>
+      <description></description>
+      <pubDate>Thu, 15 May 2025 08:36:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>山海皆可平！郑钦文首胜萨巴伦卡！</title>
+      <link>http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783090&amp;idx=1&amp;sn=ee3ca4e816f07513cd6a8821156299df</link>
+      <description></description>
+      <pubDate>Thu, 15 May 2025 07:37:10 +0800</pubDate>
+    </item>
     <item>
       <title>早啊！新闻来了〔2025.05.15〕</title>
       <link>http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783045&amp;idx=1&amp;sn=cf6e4dc9b7a82cc9520bbc084d328e6c</link>
@@ -1186,30 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657774636&amp;idx=1&amp;sn=e6a54a481f4a3dc7b7178f5b1208bd14&amp;subscene=0</link>
       <description></description>
       <pubDate>Wed, 23 Apr 2025 10:13:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>王励勤当选中国乒乓球协会新一任主席</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657774625&amp;idx=1&amp;sn=7a0e5cbc3e60b41af76623ae3575d41d&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 23 Apr 2025 09:38:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>明日出征！神舟二十号航天员乘组确定</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657774612&amp;idx=1&amp;sn=b003e48016739fdd4b7eca0ba07aaad4&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 23 Apr 2025 09:07:35 +0800</pubDate>
-    </item>
-    <item>
-      <title>“卖水果的就不能有自己的梦想？”</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657774581&amp;idx=1&amp;sn=8f0a2c4e0f2dbb7e13fc246f4f0dc84a&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 23 Apr 2025 07:56:40 +0800</pubDate>
-    </item>
-    <item>
-      <title>祝 你 生 日 快 乐！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657774573&amp;idx=1&amp;sn=9bcb0a28c7b5bcb36e53c8767bd4981e&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 23 Apr 2025 07:01:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
