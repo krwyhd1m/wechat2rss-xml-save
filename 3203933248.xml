@@ -4,280 +4,208 @@
     <link>https://localhost:8080/feed/3203933248.xml</link>
     <description>作者Allen，知名外企高级工程师。本号专注职业规划/技术科普/智能生活等内容，有意咨询可以添加我的私人V信「coderallen」&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (CodeAllen嵌入式)</managingEditor>
-    <pubDate>Tue, 06 May 2025 06:59:40 +0800</pubDate>
-    <lastBuildDate>Tue, 06 May 2025 06:59:40 +0800</lastBuildDate>
+    <pubDate>Wed, 04 Jun 2025 06:38:19 +0800</pubDate>
+    <lastBuildDate>Wed, 04 Jun 2025 06:38:19 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM45oN55eoqbW3EfUNOmTEDvTuFIuHO8EjlexxjOb9cUgQ/0</url>
       <title>CodeAllen嵌入式</title>
       <link>https://localhost:8080/feed/3203933248.xml</link>
     </image>
     <item>
-      <title>嵌入式开发中蓝牙模块的配置及使用</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487998&amp;idx=1&amp;sn=7190b6178f7eec0df0393f592ee9f6e7&amp;subscene=0</link>
+      <title>GitHub嵌入式好项目总结（更新至50个）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247488040&amp;idx=1&amp;sn=8b08f0a5033cf0a30b2917f051244a04</link>
+      <description></description>
+      <pubDate>Wed, 04 Jun 2025 06:38:19 +0800</pubDate>
+    </item>
+    <item>
+      <title>重要通知：关于主号服务稳定性及启用备用小号的说明</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247488038&amp;idx=1&amp;sn=40d1cfa0b542425b95042de3f64bc408</link>
+      <description>亲爱的各位读者朋友：大家好！在此，首先要向大家表达我深深的歉意。近期有一件非常重要且需要向您说明的事情，它可能在未来一段时间内影响到我主号的正常服务。</description>
+      <pubDate>Sat, 31 May 2025 17:00:24 +0800</pubDate>
+    </item>
+    <item>
+      <title>altium designer软件安装</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247488025&amp;idx=1&amp;sn=86fb3a0e043afe0e41e2244ca0760e17</link>
       <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
-      <pubDate>Tue, 06 May 2025 06:59:19 +0800</pubDate>
+      <pubDate>Mon, 26 May 2025 07:04:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>C语言输出控制符详细总结</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247488013&amp;idx=1&amp;sn=173aa5d9b27ee597785549b5347ae361</link>
+      <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
+      <pubDate>Fri, 23 May 2025 07:00:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>嵌入式开发中最严重的问题，指针使用错误导致系统重启的原因分析</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247488008&amp;idx=1&amp;sn=fefb5388884c56f808e78e058541273c</link>
+      <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
+      <pubDate>Thu, 22 May 2025 08:02:52 +0800</pubDate>
     </item>
     <item>
       <title>嵌入式开发中蓝牙模块的配置及使用</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487998&amp;idx=1&amp;sn=7190b6178f7eec0df0393f592ee9f6e7</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487998&amp;idx=1&amp;sn=7190b6178f7eec0df0393f592ee9f6e7</link>
       <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Tue, 06 May 2025 06:59:19 +0800</pubDate>
     </item>
     <item>
       <title>分享几种常用的嵌入式传感器应用场景以及详细单片机使用例程</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487988&amp;idx=1&amp;sn=07aacdbd6ebdb6497cbd0c866ca6808c&amp;subscene=0</link>
-      <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
-      <pubDate>Mon, 05 May 2025 08:48:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享几种常用的嵌入式传感器应用场景以及详细单片机使用例程</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487988&amp;idx=1&amp;sn=07aacdbd6ebdb6497cbd0c866ca6808c</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487988&amp;idx=1&amp;sn=07aacdbd6ebdb6497cbd0c866ca6808c</link>
       <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Mon, 05 May 2025 08:48:05 +0800</pubDate>
     </item>
     <item>
       <title>从零开始学习四轴无人机开发详解（文末附详细资源链接）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487987&amp;idx=1&amp;sn=30dc6b28e3d4c1a23a2ebd924828b467&amp;subscene=0</link>
-      <description>封面是在路上测试的美团无人车</description>
-      <pubDate>Sun, 04 May 2025 17:33:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>从零开始学习四轴无人机开发详解（文末附详细资源链接）</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487987&amp;idx=1&amp;sn=30dc6b28e3d4c1a23a2ebd924828b467</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487987&amp;idx=1&amp;sn=30dc6b28e3d4c1a23a2ebd924828b467</link>
       <description>封面是在路上测试的美团无人车</description>
       <pubDate>Sun, 04 May 2025 17:33:54 +0800</pubDate>
     </item>
     <item>
       <title>嵌入式工程师常用工具总结（单片机方向）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487953&amp;idx=1&amp;sn=fefbbd07a50fc112468a88c6717e7bd3&amp;subscene=0</link>
-      <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
-      <pubDate>Tue, 29 Apr 2025 09:38:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>嵌入式工程师常用工具总结（单片机方向）</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487953&amp;idx=1&amp;sn=fefbbd07a50fc112468a88c6717e7bd3</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487953&amp;idx=1&amp;sn=fefbbd07a50fc112468a88c6717e7bd3</link>
       <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Tue, 29 Apr 2025 09:38:01 +0800</pubDate>
     </item>
     <item>
       <title>分享6类电子类开发常用单片机</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487923&amp;idx=1&amp;sn=57891ab9ff8c0ec22b147fb02a76a2d6&amp;subscene=0</link>
-      <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
-      <pubDate>Fri, 25 Apr 2025 07:22:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享6类电子类开发常用单片机</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487923&amp;idx=1&amp;sn=57891ab9ff8c0ec22b147fb02a76a2d6</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487923&amp;idx=1&amp;sn=57891ab9ff8c0ec22b147fb02a76a2d6</link>
       <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Fri, 25 Apr 2025 07:22:26 +0800</pubDate>
     </item>
     <item>
       <title>用一个例子说说简单嵌入式项目开发流程</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487914&amp;idx=1&amp;sn=7757922af2c424935e2fd60bf27fd999&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487914&amp;idx=1&amp;sn=7757922af2c424935e2fd60bf27fd999</link>
       <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Wed, 23 Apr 2025 07:25:23 +0800</pubDate>
     </item>
     <item>
       <title>自学stm32需要会到什么程度能找到一份工作？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487911&amp;idx=1&amp;sn=36de632eaa470ec638f7a8779cc66ff8&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487911&amp;idx=1&amp;sn=36de632eaa470ec638f7a8779cc66ff8</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Tue, 22 Apr 2025 07:04:30 +0800</pubDate>
     </item>
     <item>
       <title>从STM32到Linux，你需要掌握到什么程度？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487905&amp;idx=1&amp;sn=3782905cace5e8a4bd7cee4beccde30a&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Sun, 20 Apr 2025 17:54:42 +0800</pubDate>
-    </item>
-    <item>
-      <title>从STM32到Linux，你需要掌握到什么程度？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487905&amp;idx=1&amp;sn=3782905cace5e8a4bd7cee4beccde30a</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487905&amp;idx=1&amp;sn=3782905cace5e8a4bd7cee4beccde30a</link>
       <description></description>
       <pubDate>Sun, 20 Apr 2025 17:54:42 +0800</pubDate>
     </item>
     <item>
       <title>分享8种stm32单片机常用的通信协议</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487900&amp;idx=1&amp;sn=cbb412c382cdf607ed83dc6566dc7b81&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487900&amp;idx=1&amp;sn=cbb412c382cdf607ed83dc6566dc7b81</link>
       <description></description>
       <pubDate>Sat, 19 Apr 2025 12:16:25 +0800</pubDate>
     </item>
     <item>
       <title>嵌入式软件开发必看书籍推荐（C/C++/linux/软件）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487898&amp;idx=1&amp;sn=89bd5ec922bcf7b6d3e730a4f5b518f0&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487898&amp;idx=1&amp;sn=89bd5ec922bcf7b6d3e730a4f5b518f0</link>
       <description></description>
       <pubDate>Fri, 18 Apr 2025 07:28:12 +0800</pubDate>
     </item>
     <item>
       <title>自学stm32需要会到什么程度能找到一份工作？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487895&amp;idx=1&amp;sn=45ab5f60837d9668609e0493250c57c5&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487895&amp;idx=1&amp;sn=45ab5f60837d9668609e0493250c57c5</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Thu, 17 Apr 2025 07:29:25 +0800</pubDate>
     </item>
     <item>
       <title>分享8个用stm32单片机做的黑科技产品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487893&amp;idx=1&amp;sn=de73ab4a8365dafaf6a168fb19f20417&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487893&amp;idx=1&amp;sn=de73ab4a8365dafaf6a168fb19f20417</link>
       <description></description>
       <pubDate>Wed, 16 Apr 2025 05:17:31 +0800</pubDate>
     </item>
     <item>
       <title>【天涯神贴】如何成为行业内的专家？（嵌入式工程师版本）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487891&amp;idx=1&amp;sn=d475cf1edb2ca6d9ffd1a61704f5fac8&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487891&amp;idx=1&amp;sn=d475cf1edb2ca6d9ffd1a61704f5fac8</link>
       <description></description>
       <pubDate>Tue, 15 Apr 2025 07:16:26 +0800</pubDate>
     </item>
     <item>
       <title>分享5种嵌入式开发常用的数学原理</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487889&amp;idx=1&amp;sn=90e192292e3d44efe7aa7a519cc5e19b&amp;subscene=0</link>
-      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的基础数学算法。</description>
-      <pubDate>Mon, 14 Apr 2025 09:27:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享5种嵌入式开发常用的数学原理</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487889&amp;idx=1&amp;sn=90e192292e3d44efe7aa7a519cc5e19b</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487889&amp;idx=1&amp;sn=90e192292e3d44efe7aa7a519cc5e19b</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的基础数学算法。</description>
       <pubDate>Mon, 14 Apr 2025 09:27:05 +0800</pubDate>
     </item>
     <item>
       <title>分享5种嵌入式开发常用的滤波算法</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487887&amp;idx=1&amp;sn=2c2fd3b887e44656d9f2e4b4898dd8e8&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487887&amp;idx=1&amp;sn=2c2fd3b887e44656d9f2e4b4898dd8e8</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的信号处理与滤波算法。</description>
       <pubDate>Sun, 13 Apr 2025 08:20:29 +0800</pubDate>
     </item>
     <item>
       <title>找嵌入式软件工作，FreeRTOS 要掌握到什么程度？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487885&amp;idx=1&amp;sn=55116149c739445bd80f1ef8fcab5584&amp;subscene=0</link>
-      <description>大家好，我是专注分享职业规划/技术科普有关原创文章的allen康哥。最近看知乎，有个问题《找嵌入式软件工作，FreeRTOS 要掌握到什么程度？</description>
-      <pubDate>Sat, 12 Apr 2025 08:52:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>找嵌入式软件工作，FreeRTOS 要掌握到什么程度？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487885&amp;idx=1&amp;sn=55116149c739445bd80f1ef8fcab5584</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487885&amp;idx=1&amp;sn=55116149c739445bd80f1ef8fcab5584</link>
       <description>大家好，我是专注分享职业规划/技术科普有关原创文章的allen康哥。最近看知乎，有个问题《找嵌入式软件工作，FreeRTOS 要掌握到什么程度？</description>
       <pubDate>Sat, 12 Apr 2025 08:52:47 +0800</pubDate>
     </item>
     <item>
       <title>嵌入式工作会越来越少吗？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487883&amp;idx=1&amp;sn=37fc1ab1ee9c41b79f57ce0177f65719&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487883&amp;idx=1&amp;sn=37fc1ab1ee9c41b79f57ce0177f65719</link>
       <description>大家好，我是专注分享职业规划/技术科普有关原创文章的allen康哥。</description>
       <pubDate>Fri, 11 Apr 2025 09:17:14 +0800</pubDate>
     </item>
     <item>
       <title>嵌入式行业有哪些不错的公司(2024版)</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487881&amp;idx=1&amp;sn=4349ab389c69ad602c1591e9fc7f00de&amp;subscene=0</link>
-      <description>大家好，我是专注分享职业规划/技术科普有关原创文章的allen康哥。嵌入式作为目前比较火的一个技术方向，很多同学向我咨询有什么不错的公司可以参考。</description>
-      <pubDate>Thu, 10 Apr 2025 07:01:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>嵌入式行业有哪些不错的公司(2024版)</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487881&amp;idx=1&amp;sn=4349ab389c69ad602c1591e9fc7f00de</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487881&amp;idx=1&amp;sn=4349ab389c69ad602c1591e9fc7f00de</link>
       <description>大家好，我是专注分享职业规划/技术科普有关原创文章的allen康哥。嵌入式作为目前比较火的一个技术方向，很多同学向我咨询有什么不错的公司可以参考。</description>
       <pubDate>Thu, 10 Apr 2025 07:01:17 +0800</pubDate>
     </item>
     <item>
       <title>GitHub嵌入式好项目总结（更新至50个）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487879&amp;idx=1&amp;sn=200f8e7393604b3e32a9fe1c22f47e83&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 09 Apr 2025 07:31:49 +0800</pubDate>
-    </item>
-    <item>
-      <title>GitHub嵌入式好项目总结（更新至50个）</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487879&amp;idx=1&amp;sn=200f8e7393604b3e32a9fe1c22f47e83</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487879&amp;idx=1&amp;sn=200f8e7393604b3e32a9fe1c22f47e83</link>
       <description></description>
       <pubDate>Wed, 09 Apr 2025 07:31:49 +0800</pubDate>
     </item>
     <item>
       <title>分享10个应用PID控制算法的黑科技产品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487877&amp;idx=1&amp;sn=a209ca462a700cac9430250cd13c94cf&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487877&amp;idx=1&amp;sn=a209ca462a700cac9430250cd13c94cf</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Tue, 08 Apr 2025 07:30:33 +0800</pubDate>
     </item>
     <item>
       <title>分享8种stm32单片机常用的通信协议</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487855&amp;idx=1&amp;sn=ba4a24c389bb7de50507df229b9019dd&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 03 Apr 2025 07:38:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的通信协议</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487855&amp;idx=1&amp;sn=ba4a24c389bb7de50507df229b9019dd</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487855&amp;idx=1&amp;sn=ba4a24c389bb7de50507df229b9019dd</link>
       <description></description>
       <pubDate>Thu, 03 Apr 2025 07:38:31 +0800</pubDate>
     </item>
     <item>
       <title>分享8个用stm32单片机做的黑科技产品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487853&amp;idx=1&amp;sn=f64884c3027ce9ca86893c905692b90b&amp;subscene=0</link>
-      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天分享8个用stm32做的黑科技产品。</description>
-      <pubDate>Wed, 02 Apr 2025 07:36:37 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8个用stm32单片机做的黑科技产品</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487853&amp;idx=1&amp;sn=f64884c3027ce9ca86893c905692b90b</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487853&amp;idx=1&amp;sn=f64884c3027ce9ca86893c905692b90b</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天分享8个用stm32做的黑科技产品。</description>
       <pubDate>Wed, 02 Apr 2025 07:36:37 +0800</pubDate>
     </item>
     <item>
       <title>单片机、嵌入式的大神都平时浏览什么网站？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487851&amp;idx=1&amp;sn=899ec73e3c23195cf959f4ec8d83de04&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Tue, 01 Apr 2025 07:22:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>单片机、嵌入式的大神都平时浏览什么网站？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487851&amp;idx=1&amp;sn=899ec73e3c23195cf959f4ec8d83de04</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487851&amp;idx=1&amp;sn=899ec73e3c23195cf959f4ec8d83de04</link>
       <description></description>
       <pubDate>Tue, 01 Apr 2025 07:22:18 +0800</pubDate>
     </item>
     <item>
       <title>分享10个应用PID控制算法的黑科技产品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487838&amp;idx=1&amp;sn=d4b87d4f830feeff0ed4ac7ec509d08c&amp;subscene=0</link>
-      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
-      <pubDate>Thu, 27 Mar 2025 07:01:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享10个应用PID控制算法的黑科技产品</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487838&amp;idx=1&amp;sn=d4b87d4f830feeff0ed4ac7ec509d08c</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487838&amp;idx=1&amp;sn=d4b87d4f830feeff0ed4ac7ec509d08c</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。</description>
       <pubDate>Thu, 27 Mar 2025 07:01:52 +0800</pubDate>
     </item>
     <item>
       <title>分享5种嵌入式开发常用的数学原理</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487823&amp;idx=1&amp;sn=eaba8d4d81fb49af1a707da39a3230df&amp;subscene=0</link>
-      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的基础数学算法。</description>
-      <pubDate>Wed, 26 Mar 2025 07:06:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享5种嵌入式开发常用的数学原理</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487823&amp;idx=1&amp;sn=eaba8d4d81fb49af1a707da39a3230df</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487823&amp;idx=1&amp;sn=eaba8d4d81fb49af1a707da39a3230df</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的基础数学算法。</description>
       <pubDate>Wed, 26 Mar 2025 07:06:31 +0800</pubDate>
     </item>
     <item>
       <title>分享5种嵌入式开发常用的滤波算法</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487802&amp;idx=1&amp;sn=b25dd5a4c082adbfc211ceafc4e78d4f&amp;subscene=0</link>
-      <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的信号处理与滤波算法。</description>
-      <pubDate>Tue, 25 Mar 2025 06:44:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享5种嵌入式开发常用的滤波算法</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487802&amp;idx=1&amp;sn=b25dd5a4c082adbfc211ceafc4e78d4f</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487802&amp;idx=1&amp;sn=b25dd5a4c082adbfc211ceafc4e78d4f</link>
       <description>大家好，我是专注分享职业规划/技术科普/智能生活有关原创文章的allen康哥。今天介绍下嵌入式系统中常见的信号处理与滤波算法。</description>
       <pubDate>Tue, 25 Mar 2025 06:44:34 +0800</pubDate>
     </item>
     <item>
       <title>分享下STM32单片机的18年发展史</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487788&amp;idx=1&amp;sn=5c75dd0fe842b85dac0720db4378681c&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Mon, 24 Mar 2025 07:44:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享下STM32单片机的18年发展史</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487788&amp;idx=1&amp;sn=5c75dd0fe842b85dac0720db4378681c</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487788&amp;idx=1&amp;sn=5c75dd0fe842b85dac0720db4378681c</link>
       <description></description>
       <pubDate>Mon, 24 Mar 2025 07:44:47 +0800</pubDate>
     </item>
     <item>
       <title>经常使用单片机的同学，你知道单片机的发展历史吗？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487767&amp;idx=1&amp;sn=ed1b729c916c08f6745b4a8a9338efff&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487767&amp;idx=1&amp;sn=ed1b729c916c08f6745b4a8a9338efff</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-23 08:41</span> <span style="display: inline-block;">北京</span>
@@ -303,19 +231,13 @@
     </item>
     <item>
       <title>分享6个嵌入式开发中人工智能的应用</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487752&amp;idx=1&amp;sn=4c05fd89053da13198ce3edaa21b57ae&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Sat, 22 Mar 2025 08:11:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享6个嵌入式开发中人工智能的应用</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487752&amp;idx=1&amp;sn=4c05fd89053da13198ce3edaa21b57ae</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487752&amp;idx=1&amp;sn=4c05fd89053da13198ce3edaa21b57ae</link>
       <description></description>
       <pubDate>Sat, 22 Mar 2025 08:11:03 +0800</pubDate>
     </item>
     <item>
       <title>小米澎湃OS 2.0.106 更新，附超级小爱功能介绍，及后续支持更新机型汇总</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487730&amp;idx=1&amp;sn=8d10755dc6df8298f3656e57f86c575f&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487730&amp;idx=1&amp;sn=8d10755dc6df8298f3656e57f86c575f</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-21 07:09</span> <span style="display: inline-block;">北京</span>
@@ -341,79 +263,67 @@
     </item>
     <item>
       <title>什么是嵌入式RTOS，为什么单片机开发需要RTOS？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487715&amp;idx=1&amp;sn=e24efa47c8b75dc8b48936d7d6d34dc8&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Thu, 20 Mar 2025 09:08:49 +0800</pubDate>
-    </item>
-    <item>
-      <title>什么是嵌入式RTOS，为什么单片机开发需要RTOS？</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487715&amp;idx=1&amp;sn=e24efa47c8b75dc8b48936d7d6d34dc8</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487715&amp;idx=1&amp;sn=e24efa47c8b75dc8b48936d7d6d34dc8</link>
       <description></description>
       <pubDate>Thu, 20 Mar 2025 09:08:49 +0800</pubDate>
     </item>
     <item>
       <title>分享8种stm32单片机常用的通信协议</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487693&amp;idx=1&amp;sn=4d7d79731e4561143ad43527acb15b76&amp;subscene=0</link>
-      <description></description>
-      <pubDate>Wed, 19 Mar 2025 07:45:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>分享8种stm32单片机常用的通信协议</title>
-      <link>http://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487693&amp;idx=1&amp;sn=4d7d79731e4561143ad43527acb15b76</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487693&amp;idx=1&amp;sn=4d7d79731e4561143ad43527acb15b76</link>
       <description></description>
       <pubDate>Wed, 19 Mar 2025 07:45:33 +0800</pubDate>
     </item>
     <item>
       <title>分享8种stm32单片机常用的嵌入式系统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487661&amp;idx=1&amp;sn=df0477b82719a2fe957b2621582ad2d9</link>
       <description></description>
       <pubDate>Tue, 18 Mar 2025 07:08:54 +0800</pubDate>
     </item>
     <item>
       <title>PCB常用分层设计介绍，4层/6层/8层</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487642&amp;idx=1&amp;sn=d6648aa81792222a6af592703142ec37</link>
       <description></description>
       <pubDate>Mon, 17 Mar 2025 07:40:22 +0800</pubDate>
     </item>
     <item>
       <title>分享5种树莓派板卡类型，从入门到进阶</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487634&amp;idx=1&amp;sn=fca0d4eb5f8add7d7070cbb276b84a3a&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487634&amp;idx=1&amp;sn=fca0d4eb5f8add7d7070cbb276b84a3a</link>
       <description></description>
       <pubDate>Sun, 16 Mar 2025 08:09:22 +0800</pubDate>
     </item>
     <item>
       <title>分享8个用stm32单片机做的黑科技产品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487615&amp;idx=1&amp;sn=9b6d6edfa47097bbddbe7e3cc77de9f3&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487615&amp;idx=1&amp;sn=9b6d6edfa47097bbddbe7e3cc77de9f3</link>
       <description></description>
       <pubDate>Sat, 15 Mar 2025 08:49:26 +0800</pubDate>
     </item>
     <item>
       <title>分享6个应用CAN总线技术的的黑科技产品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487598&amp;idx=1&amp;sn=5170a0e90d15cdbd29bc67270d0c3e94&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487598&amp;idx=1&amp;sn=5170a0e90d15cdbd29bc67270d0c3e94</link>
       <description></description>
       <pubDate>Fri, 14 Mar 2025 07:20:10 +0800</pubDate>
     </item>
     <item>
       <title>新能源BMS软件工程师是做什么的？新手如何入门？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487583&amp;idx=1&amp;sn=0c9017a11ce06ffc9932b1a76b46527f&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487583&amp;idx=1&amp;sn=0c9017a11ce06ffc9932b1a76b46527f</link>
       <description></description>
       <pubDate>Thu, 13 Mar 2025 07:25:26 +0800</pubDate>
     </item>
     <item>
       <title>物联网开发入门：使用串口发送AT指令（附官网资料）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487581&amp;idx=1&amp;sn=53f5a2de269a311082ad5f2f677ced6c&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487581&amp;idx=1&amp;sn=53f5a2de269a311082ad5f2f677ced6c</link>
       <description></description>
       <pubDate>Wed, 12 Mar 2025 07:31:48 +0800</pubDate>
     </item>
     <item>
       <title>分享8个用树莓派做的黑科技产品</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487576&amp;idx=1&amp;sn=f6569b3c682593f0cd4a7b2166bdbcc9&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487576&amp;idx=1&amp;sn=f6569b3c682593f0cd4a7b2166bdbcc9</link>
       <description></description>
       <pubDate>Tue, 11 Mar 2025 07:29:19 +0800</pubDate>
     </item>
     <item>
       <title>PCB分层设计的秘密，神奇的电子世界“摩天大楼”</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487558&amp;idx=1&amp;sn=6d3cba82dfc975e6d87611060fe77291&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487558&amp;idx=1&amp;sn=6d3cba82dfc975e6d87611060fe77291</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-10 06:59</span> <span style="display: inline-block;">北京</span>
@@ -439,7 +349,7 @@
     </item>
     <item>
       <title>一文向你介绍，风靡全球的树莓派有哪些类型</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487539&amp;idx=1&amp;sn=e461ab6502211a06e799eeb221b00180&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487539&amp;idx=1&amp;sn=e461ab6502211a06e799eeb221b00180</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-09 07:31</span> <span style="display: inline-block;">北京</span>
@@ -465,7 +375,7 @@
     </item>
     <item>
       <title>一文带你搞清楚，最近爆火的AI产品Manus是什么？ 和DeepSeek区别又是什么？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487535&amp;idx=1&amp;sn=08314840c8126bfd0cb8e6ae91a42195&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487535&amp;idx=1&amp;sn=08314840c8126bfd0cb8e6ae91a42195</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-08 07:34</span> <span style="display: inline-block;">北京</span>
@@ -492,7 +402,7 @@
     </item>
     <item>
       <title>高薪智能座舱研发工程师专栏(一)：系统研发工程师</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487523&amp;idx=1&amp;sn=c9013ca8544d7f9819f9a43519eab301&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487523&amp;idx=1&amp;sn=c9013ca8544d7f9819f9a43519eab301</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-07 07:30</span> <span style="display: inline-block;">北京</span>
@@ -518,13 +428,13 @@
     </item>
     <item>
       <title>雷军建议优化新能源汽车号牌设计，那大家看看全世界哪里的车牌好看</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487505&amp;idx=1&amp;sn=24211051d939988260e8c34b23ce8d55&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487505&amp;idx=1&amp;sn=24211051d939988260e8c34b23ce8d55</link>
       <description></description>
       <pubDate>Thu, 06 Mar 2025 07:28:18 +0800</pubDate>
     </item>
     <item>
       <title>嵌入式工程师 Modbus转MQTT网关实践</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487478&amp;idx=1&amp;sn=b14ecc8e4e280190381e3f1aa1e303db&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487478&amp;idx=1&amp;sn=b14ecc8e4e280190381e3f1aa1e303db</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-05 07:31</span> <span style="display: inline-block;">北京</span>
@@ -550,7 +460,7 @@
     </item>
     <item>
       <title>用STM32设计BMS从控模块手把手教你</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487469&amp;idx=1&amp;sn=00eebf146043622f764b5523a56ea5b9&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487469&amp;idx=1&amp;sn=00eebf146043622f764b5523a56ea5b9</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-04 07:30</span> <span style="display: inline-block;">北京</span>
@@ -576,7 +486,7 @@
     </item>
     <item>
       <title>小米、大疆、华为这些硬科技大厂中的嵌入式开发工程师和软件工程师的关系是什么？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487459&amp;idx=1&amp;sn=9462c5f939c0f1809dcd4a742f9a3419&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487459&amp;idx=1&amp;sn=9462c5f939c0f1809dcd4a742f9a3419</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-03-03 07:30</span> <span style="display: inline-block;">山西</span>
@@ -602,7 +512,7 @@
     </item>
     <item>
       <title>嵌入式工程师从菜鸟进阶大神路线总结</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487456&amp;idx=1&amp;sn=867813cb227cd976bc3e2feb63d42d24&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487456&amp;idx=1&amp;sn=867813cb227cd976bc3e2feb63d42d24</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-02-28 07:40</span> <span style="display: inline-block;">北京</span>
@@ -628,7 +538,7 @@
     </item>
     <item>
       <title>别光看镜头！小米15 Ultra最狠的‘内功’藏在嵌入式芯片和算法里</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487455&amp;idx=1&amp;sn=fd04c71f45a8fabedd26668740969b51&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487455&amp;idx=1&amp;sn=fd04c71f45a8fabedd26668740969b51</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-02-27 07:39</span> <span style="display: inline-block;">北京</span>
@@ -654,7 +564,7 @@
     </item>
     <item>
       <title>小米澎湃OS2.0，超级小爱AI体验大升级</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487438&amp;idx=1&amp;sn=68104148935ae9d90c190f9aea0734a4&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487438&amp;idx=1&amp;sn=68104148935ae9d90c190f9aea0734a4</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-02-26 07:53</span> <span style="display: inline-block;">北京</span>
@@ -680,7 +590,7 @@
     </item>
     <item>
       <title>不学51直接学stm32可以吗？学stm32需要哪些基础？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487418&amp;idx=1&amp;sn=c999524dfa06303fbe42949ca9a9e1a9&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487418&amp;idx=1&amp;sn=c999524dfa06303fbe42949ca9a9e1a9</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-02-25 07:19</span> <span style="display: inline-block;">北京</span>
@@ -706,7 +616,7 @@
     </item>
     <item>
       <title>找嵌入式软件工作，FreeRTOS 要掌握到什么程度？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487408&amp;idx=1&amp;sn=aa0a6c01cbf6c65e8752dce1110a32f0&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487408&amp;idx=1&amp;sn=aa0a6c01cbf6c65e8752dce1110a32f0</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-02-24 07:36</span> <span style="display: inline-block;">北京</span>
@@ -732,7 +642,7 @@
     </item>
     <item>
       <title>【天涯神贴】如何成为行业内的专家？（嵌入式工程师版本）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487393&amp;idx=1&amp;sn=2c7385c67609119bf1e0726269b901a1&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487393&amp;idx=1&amp;sn=2c7385c67609119bf1e0726269b901a1</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-02-21 07:47</span> <span style="display: inline-block;">北京</span>
@@ -758,7 +668,7 @@
     </item>
     <item>
       <title>为什么你立的嵌入式学习Flag总倒？资深工程师的SMART法则来帮你</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487385&amp;idx=1&amp;sn=a7333f61237898864b30698c732783e3&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487385&amp;idx=1&amp;sn=a7333f61237898864b30698c732783e3</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-02-16 17:03</span> <span style="display: inline-block;">北京</span>
@@ -784,7 +694,7 @@
     </item>
     <item>
       <title>Linux内核源码下载及阅读指南，想学习嵌入式Linux的同学可以参考</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487377&amp;idx=1&amp;sn=cd6ddf007c4db326379faf88f3718615&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487377&amp;idx=1&amp;sn=cd6ddf007c4db326379faf88f3718615</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-01-20 07:00</span> <span style="display: inline-block;">北京</span>
@@ -810,7 +720,7 @@
     </item>
     <item>
       <title>小米澎湃发布新版本 重点了解下超级小爱</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487348&amp;idx=1&amp;sn=43a826653086be11c0230b1f991cdd8c&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487348&amp;idx=1&amp;sn=43a826653086be11c0230b1f991cdd8c</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-01-16 07:40</span> <span style="display: inline-block;">北京</span>
@@ -836,7 +746,7 @@
     </item>
     <item>
       <title>推荐三个 C 语言开源项目，非常适合想入门嵌入式的的同学学习</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487320&amp;idx=1&amp;sn=3a262a8750c838de6825e0650ad46b2c&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487320&amp;idx=1&amp;sn=3a262a8750c838de6825e0650ad46b2c</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-01-13 07:00</span> <span style="display: inline-block;">北京</span>
@@ -862,7 +772,7 @@
     </item>
     <item>
       <title>嵌入式面试最爱问的问题，求职同学必备</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487311&amp;idx=1&amp;sn=7e21745ee83048e60d5694dd8601b0ca&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487311&amp;idx=1&amp;sn=7e21745ee83048e60d5694dd8601b0ca</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-01-08 08:24</span> <span style="display: inline-block;">北京</span>
@@ -888,7 +798,7 @@
     </item>
     <item>
       <title>小米系统代码开源，帮你实现各种好玩的想法</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487298&amp;idx=1&amp;sn=2bbc52021d80bfe2b8e1a1573be70a04&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487298&amp;idx=1&amp;sn=2bbc52021d80bfe2b8e1a1573be70a04</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-01-07 07:09</span> <span style="display: inline-block;">北京</span>
@@ -914,7 +824,7 @@
     </item>
     <item>
       <title>单片机、嵌入式的大神都平时浏览什么网站？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487285&amp;idx=1&amp;sn=d7dcb27cfd34ca8fb748a9d8b8b098d4&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487285&amp;idx=1&amp;sn=d7dcb27cfd34ca8fb748a9d8b8b098d4</link>
       <description>文末“阅读原文”直达更多精彩</description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-01-06 07:00</span> <span style="display: inline-block;">北京</span>
@@ -941,7 +851,7 @@
     </item>
     <item>
       <title>数据结构学习方法及推荐书籍（2025版）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487280&amp;idx=1&amp;sn=3d314c5eed9424bbd2f6e05f82a9fe25&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487280&amp;idx=1&amp;sn=3d314c5eed9424bbd2f6e05f82a9fe25</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-01-04 07:17</span> <span style="display: inline-block;">北京</span>
@@ -967,7 +877,7 @@
     </item>
     <item>
       <title>C++推荐书籍从入门到进阶（2025版）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487267&amp;idx=1&amp;sn=e104be9263a2626c3573c97eac20cd95&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487267&amp;idx=1&amp;sn=e104be9263a2626c3573c97eac20cd95</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2025-01-02 07:13</span> <span style="display: inline-block;">北京</span>
@@ -993,7 +903,7 @@
     </item>
     <item>
       <title>C语言推荐书籍从入门到进阶（2024版）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487229&amp;idx=1&amp;sn=b229f5e04988e8802364f722bc94af21&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487229&amp;idx=1&amp;sn=b229f5e04988e8802364f722bc94af21</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-16 17:25</span> <span style="display: inline-block;">北京</span>
@@ -1020,7 +930,7 @@
     </item>
     <item>
       <title>初学C语言，要下载什么软件，怎么下？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487227&amp;idx=1&amp;sn=5f45cd9cb087a344d8da803fecd630eb&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487227&amp;idx=1&amp;sn=5f45cd9cb087a344d8da803fecd630eb</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-15 08:13</span> <span style="display: inline-block;">北京</span>
@@ -1046,7 +956,7 @@
     </item>
     <item>
       <title>单片机初学者进阶之路：如何一步步开发出超酷作品？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487206&amp;idx=1&amp;sn=9249b993fb09ab6574510c263601c59f&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487206&amp;idx=1&amp;sn=9249b993fb09ab6574510c263601c59f</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-12 07:47</span> <span style="display: inline-block;">北京</span>
@@ -1072,7 +982,7 @@
     </item>
     <item>
       <title>从STM32到Linux，你需要掌握到什么程度？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487196&amp;idx=1&amp;sn=d94d90f12a52866824495d6857186ca3&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487196&amp;idx=1&amp;sn=d94d90f12a52866824495d6857186ca3</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-11 07:36</span> <span style="display: inline-block;">北京</span>
@@ -1098,7 +1008,7 @@
     </item>
     <item>
       <title>做一套小米全屋智能家居系统需要多少钱？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487196&amp;idx=2&amp;sn=025e34b7993ca72c3a07d0b9efeebefe&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487196&amp;idx=2&amp;sn=025e34b7993ca72c3a07d0b9efeebefe</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-11 07:36</span> <span style="display: inline-block;">北京</span>
@@ -1124,7 +1034,7 @@
     </item>
     <item>
       <title>stm32入门开发板选野火还是正点原子好，哪个的视频讲到好一点？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487188&amp;idx=1&amp;sn=638c68dabc7a994b4a6086876d423722&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487188&amp;idx=1&amp;sn=638c68dabc7a994b4a6086876d423722</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-10 07:26</span> <span style="display: inline-block;">北京</span>
@@ -1150,7 +1060,7 @@
     </item>
     <item>
       <title>嵌入式C语言核心要素概览（2024版）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487162&amp;idx=1&amp;sn=e4c24d436e044f1f446077ae81631cb6&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487162&amp;idx=1&amp;sn=e4c24d436e044f1f446077ae81631cb6</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-06 07:44</span> <span style="display: inline-block;">北京</span>
@@ -1176,7 +1086,7 @@
     </item>
     <item>
       <title>回忆下我是如何入行嵌入式的</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487144&amp;idx=1&amp;sn=23e87549769ffaeeb8f83bd7e0e8a2f2&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487144&amp;idx=1&amp;sn=23e87549769ffaeeb8f83bd7e0e8a2f2</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-04 07:40</span> <span style="display: inline-block;">北京</span>
@@ -1202,7 +1112,7 @@
     </item>
     <item>
       <title>华为鸿蒙系统NEXT 公测最新机型</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487144&amp;idx=3&amp;sn=770b0530352c21d1b23d6a17d7062462&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487144&amp;idx=3&amp;sn=770b0530352c21d1b23d6a17d7062462</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-04 07:40</span> <span style="display: inline-block;">北京</span>
@@ -1228,7 +1138,7 @@
     </item>
     <item>
       <title>C语言标准的变迁总结（最全版本，建议收藏）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487127&amp;idx=1&amp;sn=b16bb835e7afe6a7b1d93e54172a424f&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487127&amp;idx=1&amp;sn=b16bb835e7afe6a7b1d93e54172a424f</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-03 07:32</span> <span style="display: inline-block;">北京</span>
@@ -1254,7 +1164,7 @@
     </item>
     <item>
       <title>对于就业而言，嵌入式有前途吗？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487104&amp;idx=1&amp;sn=ef4533b04d9afe9e84c4fa8901b4565b&amp;subscene=0</link>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247487104&amp;idx=1&amp;sn=ef4533b04d9afe9e84c4fa8901b4565b</link>
       <description></description>
       <content:encoded><![CDATA[<p>
 原创 <span>CodeAllen</span> <span>2024-12-02 07:45</span> <span style="display: inline-block;">北京</span>
