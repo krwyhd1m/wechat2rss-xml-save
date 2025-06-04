@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Tue, 03 Jun 2025 13:48:09 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 13:48:09 +0800</lastBuildDate>
+    <pubDate>Wed, 04 Jun 2025 13:08:43 +0800</pubDate>
+    <lastBuildDate>Wed, 04 Jun 2025 13:08:43 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>矿泉水瓶上的保质期竟然是水的？水也会过期？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572144&amp;idx=1&amp;sn=5a0252e853669467bae5c4b90d1817ab</link>
+      <description>现在很多人为了方便，会选择买很多瓶装水放家或办公室里，不过，你有没有注意过，这些瓶装水都有保质期。水来自大自</description>
+      <pubDate>Wed, 04 Jun 2025 13:08:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>南极的地质学家——企鹅</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572144&amp;idx=2&amp;sn=1ac2cd1f6d47620c486ef2e5e9462873</link>
+      <description>南极的地质学家企鹅在这地球的“尽头”，矗立着人类自然探索历程上的一座丰碑：麦克默多站，位于南极点的南极科考站</description>
+      <pubDate>Wed, 04 Jun 2025 13:08:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>通信的未来，是“天罗地网”？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572144&amp;idx=3&amp;sn=23b9f9c1ad8a78f0c913a7552f13822b</link>
+      <description>通信技术的发展日新月异，聪明的人类在不断努力构建着“更快、更高、更强”的网络。当我们抬头仰望星空时，或许会发</description>
+      <pubDate>Wed, 04 Jun 2025 13:08:43 +0800</pubDate>
+    </item>
     <item>
       <title>黑洞其实是个大号硬盘？不过存的是...</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572116&amp;idx=1&amp;sn=b45744f93a50325ca2a384dfcb0026c1</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565100&amp;idx=3&amp;sn=edec8ea0f26855266eca1a02ff9882c1</link>
       <description>引言给定空间中的一组点, 你能找到一条经过所有点的曲线吗？这个问题是数学中插值问题的一个版本, 几千年来一直</description>
       <pubDate>Wed, 02 Apr 2025 12:42:20 +0800</pubDate>
-    </item>
-    <item>
-      <title>人类或将需要更少的睡眠，未来只需睡4.1小时</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565082&amp;idx=1&amp;sn=d5d6079f955676ddcedcc4f7555e9828</link>
-      <description>zzzzzzZZZZZZ</description>
-      <pubDate>Tue, 01 Apr 2025 13:04:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>为什么复制大文件时进度条在后半段突然加速？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565082&amp;idx=2&amp;sn=fee9d521027908b60e239c07db394e26</link>
-      <description>深度了解操作系统的缓存机制！</description>
-      <pubDate>Tue, 01 Apr 2025 13:04:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>动动手，你也能算宇宙的年龄！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565082&amp;idx=3&amp;sn=58bdf32f4a20fd1eaec7a68373cd6152</link>
-      <description>试试就逝世！</description>
-      <pubDate>Tue, 01 Apr 2025 13:04:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
