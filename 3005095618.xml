@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Wed, 04 Jun 2025 13:08:43 +0800</pubDate>
-    <lastBuildDate>Wed, 04 Jun 2025 13:08:43 +0800</lastBuildDate>
+    <pubDate>Thu, 05 Jun 2025 11:55:31 +0800</pubDate>
+    <lastBuildDate>Thu, 05 Jun 2025 11:55:31 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>让时光倒流回到破碎之前</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572149&amp;idx=1&amp;sn=86d8b5ab0eb4869a37be28daa41a85c1</link>
+      <description></description>
+      <pubDate>Thu, 05 Jun 2025 11:55:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>12万篇投稿数据揭示跨学科研究“潜规则”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572149&amp;idx=2&amp;sn=a3e69fe5ff939d491adc6f8d9fa9ce38</link>
+      <description></description>
+      <pubDate>Thu, 05 Jun 2025 11:55:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>当太阳死亡后，生命能否在木星的海洋卫星木卫二上延续？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572149&amp;idx=3&amp;sn=747bbb4df05beca51a65650f72515d8b</link>
+      <description></description>
+      <pubDate>Thu, 05 Jun 2025 11:55:31 +0800</pubDate>
+    </item>
     <item>
       <title>矿泉水瓶上的保质期竟然是水的？水也会过期？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572144&amp;idx=1&amp;sn=5a0252e853669467bae5c4b90d1817ab</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565212&amp;idx=3&amp;sn=4ed3ccc46752d5ba592f5fabfa130ce4</link>
       <description>在日常生活中，我们对低温的感受除了天气冷之外，还有比如冰箱冷冻室。当然，网络上的撒冰花（“泼水成冰”）也吸引</description>
       <pubDate>Thu, 03 Apr 2025 14:36:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>超级震级的灾难要素——“缅甸强震”中的超音速破裂现象</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565100&amp;idx=1&amp;sn=d3b5105456e8617eff2f5de14057a206</link>
-      <description>这两天最大的国际新闻，应该就是28号缅甸的地震了。虽然国内大部分地区的网友可能还没啥震感，但这次地震的破坏力</description>
-      <pubDate>Wed, 02 Apr 2025 12:42:20 +0800</pubDate>
-    </item>
-    <item>
-      <title>月球最古老“疤痕”有多老？嫦娥六号样品里有新发现</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565100&amp;idx=2&amp;sn=83fcd7fcaef418fe2d2fcb929855c599</link>
-      <description>月球背面的南极-艾特肯盆地直径约为2500公里，是月球最古老、最大的撞击“疤痕”，记录了月球幼年时期遭受的巨</description>
-      <pubDate>Wed, 02 Apr 2025 12:42:20 +0800</pubDate>
-    </item>
-    <item>
-      <title>&#34;数学曲线&#34;如何实现高级通信</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565100&amp;idx=3&amp;sn=edec8ea0f26855266eca1a02ff9882c1</link>
-      <description>引言给定空间中的一组点, 你能找到一条经过所有点的曲线吗？这个问题是数学中插值问题的一个版本, 几千年来一直</description>
-      <pubDate>Wed, 02 Apr 2025 12:42:20 +0800</pubDate>
     </item>
   </channel>
 </rss>
