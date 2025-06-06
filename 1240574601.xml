@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 06 Jun 2025 20:24:41 +0800</pubDate>
-    <lastBuildDate>Fri, 06 Jun 2025 20:24:41 +0800</lastBuildDate>
+    <pubDate>Fri, 06 Jun 2025 22:26:08 +0800</pubDate>
+    <lastBuildDate>Fri, 06 Jun 2025 22:26:08 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>一个容易得脂肪肝的习惯，你可能天天在重复</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792309&amp;idx=1&amp;sn=7800da830e558f03fb211d4508169b04</link>
+      <description></description>
+      <pubDate>Fri, 06 Jun 2025 22:26:08 +0800</pubDate>
+    </item>
+    <item>
+      <title>“铅笔削好了吗？记得带身份证”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792292&amp;idx=1&amp;sn=ead2dd6f380d3be420d61c0cc67ae2e9</link>
+      <description></description>
+      <pubDate>Fri, 06 Jun 2025 21:17:04 +0800</pubDate>
+    </item>
     <item>
       <title>电影暑期档来了！片单快收好→</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792272&amp;idx=1&amp;sn=d6e7f07df3029133800e4656ed9a0e3f</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657780304&amp;idx=1&amp;sn=a7dec6d9109e431949d1dc206ad6894f</link>
       <description></description>
       <pubDate>Wed, 07 May 2025 11:37:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>时隔一周，美军又一架“超级大黄蜂”坠海</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657780297&amp;idx=1&amp;sn=561935a608853dac79a4d4d9a14f93ce</link>
-      <description></description>
-      <pubDate>Wed, 07 May 2025 11:19:57 +0800</pubDate>
-    </item>
-    <item>
-      <title>苟仲文被提起公诉</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657780280&amp;idx=1&amp;sn=6e847bf57e22932f797bb8ab233de313</link>
-      <description></description>
-      <pubDate>Wed, 07 May 2025 10:33:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
