@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 06 Jun 2025 16:56:35 +0800</pubDate>
-    <lastBuildDate>Fri, 06 Jun 2025 16:56:35 +0800</lastBuildDate>
+    <pubDate>Fri, 06 Jun 2025 18:40:12 +0800</pubDate>
+    <lastBuildDate>Fri, 06 Jun 2025 18:40:12 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>吃腐乳会致癌？很多人都错怪它了……</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792204&amp;idx=1&amp;sn=463cba357ef28c0be251b9ca2bf2322a</link>
+      <description></description>
+      <pubDate>Fri, 06 Jun 2025 18:40:12 +0800</pubDate>
+    </item>
     <item>
       <title>给小白鼠天天喝这种水：心脏坏了、炎症高了！不少人也天天喝</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792102&amp;idx=1&amp;sn=311eb9bd39325f1c40a3946006cf19e3</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657780257&amp;idx=1&amp;sn=2ebb73e5058a29839df50b8a394a1214</link>
       <description></description>
       <pubDate>Wed, 07 May 2025 09:41:56 +0800</pubDate>
-    </item>
-    <item>
-      <title>央行宣布：降准又降息！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657780253&amp;idx=1&amp;sn=f763381b68735a06065156e64c1afde3</link>
-      <description></description>
-      <pubDate>Wed, 07 May 2025 09:21:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
