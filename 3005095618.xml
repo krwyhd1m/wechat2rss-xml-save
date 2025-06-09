@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Sun, 08 Jun 2025 14:07:39 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Jun 2025 14:07:39 +0800</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 13:14:38 +0800</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 13:14:38 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>撕开盖就能喝的蘑菇？还能当护手霜？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572240&amp;idx=1&amp;sn=d6edbb571f87f3eaea3d50cd55c2cb60</link>
+      <description></description>
+      <pubDate>Mon, 09 Jun 2025 13:14:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>抛弃近千名员工并用ChatGPT替代后，这家公司彻底翻车了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572240&amp;idx=2&amp;sn=9041cd1584c32ef876fe1f4073092eab</link>
+      <description></description>
+      <pubDate>Mon, 09 Jun 2025 13:14:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>“预测股市、破解密码”，量子计算是科技神话还是未来实用？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572240&amp;idx=3&amp;sn=6941d4b3c0da9c13e10089a1f36502c6</link>
+      <description></description>
+      <pubDate>Mon, 09 Jun 2025 13:14:38 +0800</pubDate>
+    </item>
     <item>
       <title>今年高考作文抽象？看我用物理知识写一篇满分作文</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572236&amp;idx=1&amp;sn=eb653745993bbd479b5b0bd9f935611f</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565405&amp;idx=2&amp;sn=2582055819ba7c807f0405e3f2a68097</link>
       <description></description>
       <pubDate>Mon, 07 Apr 2025 12:08:38 +0800</pubDate>
-    </item>
-    <item>
-      <title>宇宙有多均匀？最新结果确认标准宇宙模型！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565405&amp;idx=3&amp;sn=4490942474ab1679863edcee2fac3fad</link>
-      <description>图片来源：Freepik导读：十多年来，天文学家们从测光巡天数据中发现，宇宙的密度分布比另一测量方法微波背景</description>
-      <pubDate>Mon, 07 Apr 2025 12:08:38 +0800</pubDate>
-    </item>
-    <item>
-      <title>高压下合成Tc高达91K的分子型氢化物超导体BiH₄ | 进展</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565383&amp;idx=1&amp;sn=747278b9435f77950230ac9ac776b828</link>
-      <description>中国科学院物理研究所/北京凝聚态物理国家研究中心的程金光研究员团队在分子型氢化物高温超导体的超高压合成与高温超导研究方面取得新进展。</description>
-      <pubDate>Sun, 06 Apr 2025 20:53:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>同样是自动驾驶，汽车和飞机有啥不同?</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565382&amp;idx=1&amp;sn=6ba3380da9c1f703ffb2c4c6c8d0f6a0</link>
-      <description>自动驾驶的奥秘要说飞行的自动驾驶出现的时间远比汽车自动驾驶早，那为什么汽车的自动驾驶就那么难呢？</description>
-      <pubDate>Sun, 06 Apr 2025 14:06:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
