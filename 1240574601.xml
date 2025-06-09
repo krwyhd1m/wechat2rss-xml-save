@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Mon, 09 Jun 2025 20:36:41 +0800</pubDate>
-    <lastBuildDate>Mon, 09 Jun 2025 20:36:41 +0800</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 22:09:33 +0800</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 22:09:33 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>主体性很强的人，都有这些特征</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793547&amp;idx=1&amp;sn=66a3e4cb5308e2bd117f917a6ffc66c9</link>
+      <description></description>
+      <pubDate>Mon, 09 Jun 2025 22:09:33 +0800</pubDate>
+    </item>
     <item>
       <title>中美经贸磋商机制首次会议举行</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793522&amp;idx=1&amp;sn=46fa7380b0f28dea522edf55f94fcd61</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781351&amp;idx=1&amp;sn=4f0654c5fd9102aea206c72cbfec57ed</link>
       <description></description>
       <pubDate>Sat, 10 May 2025 07:28:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>早啊！新闻来了〔2025.05.10〕</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781336&amp;idx=1&amp;sn=f784700ef11ce0948d5817c99b903076</link>
-      <description></description>
-      <pubDate>Sat, 10 May 2025 05:50:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
