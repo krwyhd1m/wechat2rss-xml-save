@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Tue, 10 Jun 2025 21:31:45 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 21:31:45 +0800</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 22:33:30 +0800</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 22:33:30 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>睡前喝牛奶，助眠作用到底有多大?</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793969&amp;idx=1&amp;sn=890a70c3d566f1d44b25755cf099ad7e</link>
+      <description></description>
+      <pubDate>Tue, 10 Jun 2025 22:33:30 +0800</pubDate>
+    </item>
     <item>
       <title>每天都该做的三件事是什么？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793948&amp;idx=1&amp;sn=f81d497a57260717011217215a40f4d2</link>
@@ -40,6 +46,12 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793827&amp;idx=1&amp;sn=1a765a6467c5771780ebe83c324b78d2</link>
       <description></description>
       <pubDate>Tue, 10 Jun 2025 17:11:35 +0800</pubDate>
+    </item>
+    <item>
+      <title>第110000列发车！货值4500亿美元+！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793816&amp;idx=1&amp;sn=4e237e5f84e10e0492e2d33705f9a72c</link>
+      <description></description>
+      <pubDate>Tue, 10 Jun 2025 16:03:08 +0800</pubDate>
     </item>
     <item>
       <title>为什么一只活鸭上百元，一只烤鸭只要25元？</title>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781710&amp;idx=1&amp;sn=78ce256b822304208c052c3c004782f9</link>
       <description></description>
       <pubDate>Sat, 10 May 2025 21:08:44 +0800</pubDate>
-    </item>
-    <item>
-      <title>习近平回到北京</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781687&amp;idx=1&amp;sn=caed2b28260dfaff3c69451daba59537</link>
-      <description></description>
-      <pubDate>Sat, 10 May 2025 20:41:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>巴基斯坦外长：印巴已同意立即停火</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657781674&amp;idx=1&amp;sn=22743dfa2d6d1edd5c923d1bc41a834a</link>
-      <description></description>
-      <pubDate>Sat, 10 May 2025 20:21:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
