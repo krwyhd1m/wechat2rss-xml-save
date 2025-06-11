@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Tue, 10 Jun 2025 18:01:01 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 18:01:01 +0800</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 14:15:12 +0800</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 14:15:12 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>爱因斯坦与EPR佯谬：一个被证明是错的伟大质疑</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572269&amp;idx=1&amp;sn=6e042e4fc33d169fbc36ce7d96bdd7e6</link>
+      <description>爱因斯坦（1879年3月14日—1955年4月18日）与他的两个助手鲍里斯·波多尔斯基(Boris Podo</description>
+      <pubDate>Wed, 11 Jun 2025 14:15:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>“苦”不堪言，爱不释手！苦瓜带给我们的健康益处</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572269&amp;idx=2&amp;sn=b1200e715011596c45bdd942deee8a57</link>
+      <description>1、引言在缤纷多彩的蔬菜世界里，苦瓜以其独特的形态和味道独树一帜。苦瓜（图1），又名凉瓜、癞瓜，为葫芦科苦瓜</description>
+      <pubDate>Wed, 11 Jun 2025 14:15:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>电子皮肤及其在泛在健康监测中的应用</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572269&amp;idx=3&amp;sn=a5b9045b15edd5a47626ad402772d26b</link>
+      <description>电子皮肤是一种仿生设计，其灵感来源于人体皮肤的结构和功能，旨在模拟和超越自然界的感知和交互能力。它基于先进的</description>
+      <pubDate>Wed, 11 Jun 2025 14:15:12 +0800</pubDate>
+    </item>
     <item>
       <title>基于相变材料Sb₂S₃的可重构等离激元超表面 | 进展</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572267&amp;idx=1&amp;sn=1e38e6e64e3a3d4b8856587f25a7ca04</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565436&amp;idx=3&amp;sn=e03bccbb0dc539dceab3d9e0822b43c4</link>
       <description></description>
       <pubDate>Wed, 09 Apr 2025 11:29:04 +0800</pubDate>
-    </item>
-    <item>
-      <title>接入大模型的MatElab到底有多强？您的24小时AI科研助手已上线！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565429&amp;idx=1&amp;sn=3ac83f41c530daa30b7d8fc0eb359e4d</link>
-      <description>物理所MatElab平台接入DeepSeek大模型，文献精读+实验分析+论文润色全流程智能化升级。</description>
-      <pubDate>Tue, 08 Apr 2025 20:43:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>最快经过n个地方怎么走？（问deepseek也没用）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565427&amp;idx=1&amp;sn=dbf5559047664359b568bf7db069a45a</link>
-      <description></description>
-      <pubDate>Tue, 08 Apr 2025 13:27:04 +0800</pubDate>
-    </item>
-    <item>
-      <title>站座、卧铺、刀片椅、双层座......为了往经济舱塞进更多人，航空公司有多拼？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565427&amp;idx=2&amp;sn=8b1935823399e6f3d6b987c733053563</link>
-      <description></description>
-      <pubDate>Tue, 08 Apr 2025 13:27:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
