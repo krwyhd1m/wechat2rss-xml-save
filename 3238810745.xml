@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/3238810745.xml</link>
     <description>让大人孩子一起阅读的漫画&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (肥志)</managingEditor>
-    <pubDate>Thu, 05 Jun 2025 09:02:27 +0800</pubDate>
-    <lastBuildDate>Thu, 05 Jun 2025 09:02:27 +0800</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 20:58:05 +0800</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 20:58:05 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM7BeWHg5fswMSK7IpgWAsy0qrlYLkJoeicv6Jj6GHiakEqg/0</url>
       <title>肥志</title>
       <link>https://localhost:8080/feed/3238810745.xml</link>
     </image>
+    <item>
+      <title>很水的一期....</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIzODgxMDc0NQ==&amp;mid=2247536125&amp;idx=1&amp;sn=9cf7693f573e55e404e2d2cd9d4f5926</link>
+      <description>水，专注打工数千年</description>
+      <pubDate>Wed, 11 Jun 2025 20:58:05 +0800</pubDate>
+    </item>
     <item>
       <title>芒种</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIzODgxMDc0NQ==&amp;mid=2247536047&amp;idx=1&amp;sn=0bd5a809950e3b6452729d457dfa949d</link>
