@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Wed, 11 Jun 2025 19:27:54 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 19:27:54 +0800</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 22:13:47 +0800</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 22:13:47 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>我们在夏天相遇，又走向各自的夏天</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794263&amp;idx=1&amp;sn=7292295385cad33d058bd3bf8aaeb447</link>
+      <description></description>
+      <pubDate>Wed, 11 Jun 2025 22:13:47 +0800</pubDate>
+    </item>
     <item>
       <title>今晚，记得抬头看！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794217&amp;idx=1&amp;sn=67c293fb1af5a6fa49b6ae7fafcdf8d5</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782039&amp;idx=1&amp;sn=b470a2088a350e7e461b2188ae4ae04d</link>
       <description></description>
       <pubDate>Mon, 12 May 2025 09:20:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>17年前被救的孩子们，如今闪闪发光！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782038&amp;idx=1&amp;sn=4c996561a1604b0edc829101807b2da8</link>
-      <description></description>
-      <pubDate>Mon, 12 May 2025 08:18:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
