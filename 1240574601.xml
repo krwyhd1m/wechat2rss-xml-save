@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Thu, 12 Jun 2025 20:04:12 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 20:04:12 +0800</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 22:37:55 +0800</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 22:37:55 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>最新！印度警方称发现一名坠机幸存者</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794569&amp;idx=1&amp;sn=34b2e71e083dee75337274a5ff805a8e</link>
+      <description></description>
+      <pubDate>Thu, 12 Jun 2025 22:37:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>真心建议你：培养“输出型爱好”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794557&amp;idx=1&amp;sn=9891558bebf45b39690cf2d03a23d51a</link>
+      <description></description>
+      <pubDate>Thu, 12 Jun 2025 21:43:07 +0800</pubDate>
+    </item>
     <item>
       <title>印度失事客机上242人全部遇难</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794533&amp;idx=1&amp;sn=61736a0a8b1023c589e6071190b4a453</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782378&amp;idx=1&amp;sn=71499cc6840ddd7da68b52e72d12918f</link>
       <description></description>
       <pubDate>Tue, 13 May 2025 10:46:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>在火焰山如何15秒快速制冷？唐僧师徒找到黑科技→</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782378&amp;idx=2&amp;sn=1b5631a17393a74986d480bb22d05967</link>
-      <description></description>
-      <pubDate>Tue, 13 May 2025 10:46:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>转存！使用说明来了→</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782355&amp;idx=1&amp;sn=af032405fbe83811155739c6c6fff872</link>
-      <description></description>
-      <pubDate>Tue, 13 May 2025 09:23:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
