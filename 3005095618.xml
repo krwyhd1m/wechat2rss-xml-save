@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Wed, 11 Jun 2025 14:15:12 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 14:15:12 +0800</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 21:03:51 +0800</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 21:03:51 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>超带隙透明导体 | 进展</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572275&amp;idx=1&amp;sn=c20cff8b250a0afae4168e0855c53fc0</link>
+      <description>透明导体兼具导电性与透明性，广泛应用于触控屏、太阳能电池、发光二极管、电致变色和透明显示等光电器件，成为现代信</description>
+      <pubDate>Wed, 11 Jun 2025 21:03:51 +0800</pubDate>
+    </item>
     <item>
       <title>爱因斯坦与EPR佯谬：一个被证明是错的伟大质疑</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572269&amp;idx=1&amp;sn=6e042e4fc33d169fbc36ce7d96bdd7e6</link>
@@ -1202,12 +1208,6 @@
     <item>
       <title>智能手表、手环监测睡眠质量，真的靠谱吗？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565436&amp;idx=2&amp;sn=90c60d823c767cd8c5da3a12ac4849e2</link>
-      <description></description>
-      <pubDate>Wed, 09 Apr 2025 11:29:04 +0800</pubDate>
-    </item>
-    <item>
-      <title>面对比太阳亮1万亿倍的光，到底要用什么样的照相机？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565436&amp;idx=3&amp;sn=e03bccbb0dc539dceab3d9e0822b43c4</link>
       <description></description>
       <pubDate>Wed, 09 Apr 2025 11:29:04 +0800</pubDate>
     </item>
