@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Thu, 12 Jun 2025 22:37:55 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 22:37:55 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 05:48:34 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 05:48:34 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.06.13〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794574&amp;idx=1&amp;sn=2cedfd7a0132af2bdc24d0414e2a477b</link>
+      <description></description>
+      <pubDate>Fri, 13 Jun 2025 05:48:34 +0800</pubDate>
+    </item>
     <item>
       <title>最新！印度警方称发现一名坠机幸存者</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794569&amp;idx=1&amp;sn=34b2e71e083dee75337274a5ff805a8e</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782386&amp;idx=1&amp;sn=098c051bff33d5c271e10cc8b0cb36e2</link>
       <description></description>
       <pubDate>Tue, 13 May 2025 12:32:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>学会这些减盐方案，或许能省很多看病钱！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782378&amp;idx=1&amp;sn=71499cc6840ddd7da68b52e72d12918f</link>
-      <description></description>
-      <pubDate>Tue, 13 May 2025 10:46:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
