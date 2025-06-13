@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 13 Jun 2025 21:24:27 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 21:24:27 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 22:02:35 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 22:02:35 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>战胜拖延的最好方法，从来都不是自律</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794904&amp;idx=1&amp;sn=7d6ab9c51e5d0c282b5057ebfae65bf5</link>
+      <description></description>
+      <pubDate>Fri, 13 Jun 2025 22:02:35 +0800</pubDate>
+    </item>
     <item>
       <title>官方通报“罗某宇坠楼事件”</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794896&amp;idx=1&amp;sn=f47982fc28aee49de451d01650dc2ba3</link>
@@ -40,6 +46,12 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794760&amp;idx=1&amp;sn=b1ce7c5898791d584ab6398631ddd4f6</link>
       <description></description>
       <pubDate>Fri, 13 Jun 2025 15:34:10 +0800</pubDate>
+    </item>
+    <item>
+      <title>习近平将出席第二届中国—中亚峰会</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794755&amp;idx=1&amp;sn=d053ae9d5b4d700def07ecdcace24fdb</link>
+      <description></description>
+      <pubDate>Fri, 13 Jun 2025 15:20:45 +0800</pubDate>
     </item>
     <item>
       <title>习近平就印度客机失事向印度总统穆尔穆、总理莫迪致慰问电</title>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782750&amp;idx=1&amp;sn=8d5f95835bd8a62d556bf934beb70fba</link>
       <description></description>
       <pubDate>Wed, 14 May 2025 12:52:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>提醒！雨后遇到这种大蜗牛千万别碰</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782740&amp;idx=1&amp;sn=d99138bae6d28aff471dcdd1768e53c8</link>
-      <description></description>
-      <pubDate>Wed, 14 May 2025 10:47:11 +0800</pubDate>
-    </item>
-    <item>
-      <title>陆克华被逮捕</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657782721&amp;idx=1&amp;sn=8a0e1964582f2d98fd49c8f45ac8866f</link>
-      <description></description>
-      <pubDate>Wed, 14 May 2025 10:01:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
