@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Thu, 12 Jun 2025 19:19:54 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 19:19:54 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 12:05:09 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 12:05:09 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>为什么高饱和的红蓝配色，能营造出3D效果？| No.464</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572317&amp;idx=1&amp;sn=2faf5d0cb15f774f93d168105cab0872</link>
+      <description>高饱和的红蓝配色竟能营造出3D效果！不知道你是否还记得小时候的红蓝眼镜，他们有着同样的原理。</description>
+      <pubDate>Fri, 13 Jun 2025 12:05:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>地磁：对抗太阳风的精妙设计</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572317&amp;idx=2&amp;sn=e09ade1cd732a5d6d325ff3f2bfb925f</link>
+      <description>大家都知道，地球上天然具有磁场。一般认为，地球的磁场源于地球内部液态铁镍的流动导致的电流、地球自转以及热化学</description>
+      <pubDate>Fri, 13 Jun 2025 12:05:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>当火山化身掌管闪电的神……</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572317&amp;idx=3&amp;sn=ce4de9c0eef1784cb080cd214eef387d</link>
+      <description>火山喷发是地球上最壮观的地质现象之一，其伴随的剧烈爆炸、熔岩流动和火山灰喷射无不震撼人心。然而，许多火山喷发</description>
+      <pubDate>Fri, 13 Jun 2025 12:05:09 +0800</pubDate>
+    </item>
     <item>
       <title>硫系相变材料构建多层膜法布里-珀罗光腔实现超高开关比光开关 | 进展</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572284&amp;idx=1&amp;sn=d9af89180fae52801b28f7c64b3aa1c6</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565511&amp;idx=1&amp;sn=e0ecf9a4554f551158c22015aa48ce42</link>
       <description></description>
       <pubDate>Fri, 11 Apr 2025 15:34:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>近视手术不再需要恢复期？非侵入式屈光矫正新方法！ | 科到了</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565511&amp;idx=2&amp;sn=a76c1da47d97c1d37af462b074549b51</link>
-      <description></description>
-      <pubDate>Fri, 11 Apr 2025 15:34:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>那些不爱喝白开水的人，后来都怎么样了？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565511&amp;idx=3&amp;sn=2aab909941e8211a11b85066b1dc69fd</link>
-      <description></description>
-      <pubDate>Fri, 11 Apr 2025 15:34:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>波士顿大龙虾以前是给犯人和穷人吃的？！为啥啊？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565445&amp;idx=1&amp;sn=6b062f1deb04afa46ccbe26a6cf3f708</link>
-      <description></description>
-      <pubDate>Thu, 10 Apr 2025 13:10:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
