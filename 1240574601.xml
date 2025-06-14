@@ -4,13 +4,37 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sat, 14 Jun 2025 18:27:33 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 18:27:33 +0800</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 23:11:55 +0800</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 23:11:55 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>王毅同以色列外长萨尔通电话</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795142&amp;idx=1&amp;sn=7e6b976fc14b9e3688a92f3505172f01</link>
+      <description></description>
+      <pubDate>Sat, 14 Jun 2025 23:11:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>王毅同伊朗外长阿拉格齐通电话</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795137&amp;idx=1&amp;sn=079a8e8f4d6b0219130101b00e1d190d</link>
+      <description></description>
+      <pubDate>Sat, 14 Jun 2025 22:54:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>这种虫子看到一只，说明你家里已有很多只了！（不是蟑螂）</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795124&amp;idx=1&amp;sn=4e5644a234d6aeecbe110b101f82c89b</link>
+      <description></description>
+      <pubDate>Sat, 14 Jun 2025 22:18:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>“父亲的关心有时候像砂纸，会磨得人生疼”</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795118&amp;idx=1&amp;sn=ecc4ce75a70c14de0fe5eaa32fdc59d9</link>
+      <description></description>
+      <pubDate>Sat, 14 Jun 2025 21:16:19 +0800</pubDate>
+    </item>
     <item>
       <title>空军招选女飞行学员！优秀者可获清华北大等高校“双学籍”</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795075&amp;idx=1&amp;sn=9dd0330eb2528b2fea9252c745b4815d</link>
@@ -1186,30 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783095&amp;idx=1&amp;sn=d256c3d1e48d88c0ebe55df5b6f05d97</link>
       <description></description>
       <pubDate>Thu, 15 May 2025 08:37:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>山海皆可平！郑钦文首胜萨巴伦卡！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783090&amp;idx=1&amp;sn=ee3ca4e816f07513cd6a8821156299df</link>
-      <description></description>
-      <pubDate>Thu, 15 May 2025 07:37:27 +0800</pubDate>
-    </item>
-    <item>
-      <title>早啊！新闻来了〔2025.05.15〕</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783045&amp;idx=1&amp;sn=cf6e4dc9b7a82cc9520bbc084d328e6c</link>
-      <description></description>
-      <pubDate>Thu, 15 May 2025 05:41:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>15个成本很低，但能快速恢复精力的方法</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783011&amp;idx=1&amp;sn=327d09f85f855faab6c0a571b0bbc8f5</link>
-      <description></description>
-      <pubDate>Wed, 14 May 2025 21:38:32 +0800</pubDate>
-    </item>
-    <item>
-      <title>美国调整对华加征关税</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783004&amp;idx=1&amp;sn=46b4fefe43858a5fd06f225b4ef7311b</link>
-      <description></description>
-      <pubDate>Wed, 14 May 2025 21:06:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
