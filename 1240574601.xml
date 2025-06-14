@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sat, 14 Jun 2025 23:11:55 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 23:11:55 +0800</lastBuildDate>
+    <pubDate>Sun, 15 Jun 2025 05:47:38 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Jun 2025 05:47:38 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.06.15〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795146&amp;idx=1&amp;sn=45e1486343b57c51846f962b84d4ffb2</link>
+      <description></description>
+      <pubDate>Sun, 15 Jun 2025 05:47:38 +0800</pubDate>
+    </item>
     <item>
       <title>王毅同以色列外长萨尔通电话</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795142&amp;idx=1&amp;sn=7e6b976fc14b9e3688a92f3505172f01</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783135&amp;idx=1&amp;sn=9d0da034a4e073b04b7217434a5a9413</link>
       <description></description>
       <pubDate>Thu, 15 May 2025 11:50:44 +0800</pubDate>
-    </item>
-    <item>
-      <title>时隔3年，俄乌直接谈判有望重启！谁参加？谈什么？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657783095&amp;idx=1&amp;sn=d256c3d1e48d88c0ebe55df5b6f05d97</link>
-      <description></description>
-      <pubDate>Thu, 15 May 2025 08:37:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
