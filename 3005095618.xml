@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Fri, 13 Jun 2025 12:05:09 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 12:05:09 +0800</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 12:17:52 +0800</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 12:17:52 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>没有翅膀也能飞？鸟鸟们看完都傻了？| 正经玩</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572366&amp;idx=1&amp;sn=8f2b536b762abf493f98e1c5492b6dd2</link>
+      <description>飞机起飞一定要靠翅膀吗？今天我们就来挑战一下没有翅膀的飞机！</description>
+      <pubDate>Sat, 14 Jun 2025 12:17:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>海里也有瀑布？这合理吗？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572366&amp;idx=2&amp;sn=99ebb6b10ba3b551f62eedf5c14f83b4</link>
+      <description>“瀑布”指的是从山壁上或河床突然降落的地方流下的水，远看好像挂着的白布。在地质学中，瀑布也叫做“跌水”，表达</description>
+      <pubDate>Sat, 14 Jun 2025 12:17:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>黑科技预警！它如何“追杀”大气污染物？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572366&amp;idx=3&amp;sn=1ef1ae38bff2d51b9c45080b6e6fa44f</link>
+      <description>气象学家竺可桢曾说过：“花香鸟语，草长莺飞，都是大自然的语言。”几千年来，为了改造和利用自然、创造更美好的生</description>
+      <pubDate>Sat, 14 Jun 2025 12:17:52 +0800</pubDate>
+    </item>
     <item>
       <title>为什么高饱和的红蓝配色，能营造出3D效果？| No.464</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572317&amp;idx=1&amp;sn=2faf5d0cb15f774f93d168105cab0872</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565561&amp;idx=1&amp;sn=7239be397a37e1f4638bffc1b47ca62d</link>
       <description>大风来袭如果此时身处户外通常会躲掩体后规避大风可圆柱和方柱哪个更好呢？别瞎猜，实验给你答案。</description>
       <pubDate>Sat, 12 Apr 2025 12:07:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>蒙娜丽莎的微笑里，藏着胆固醇超标的医学密码？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565561&amp;idx=2&amp;sn=1fa3ca7cf491aef8a63132fca2271cdb</link>
-      <description>画中的“病”意大利画家达·芬奇非常注重解剖结构，他在画人物之前，就已经进行了较为系统的人体解剖学研究。他的名</description>
-      <pubDate>Sat, 12 Apr 2025 12:07:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>数学界的诺贝尔奖：阿贝尔奖曾经历一个世纪的等待</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565561&amp;idx=3&amp;sn=d72a0abb1760452ff455a0a76a5346ec</link>
-      <description>这个奖项以伟大的挪威数学家尼尔斯·亨利克·阿贝尔（1802-1829）命名，他虽然英年早逝，却在数学中留下了不朽成就，特别是在群论和解析函数领域。</description>
-      <pubDate>Sat, 12 Apr 2025 12:07:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>植发可以挽救秃头吗？ | No.455</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565511&amp;idx=1&amp;sn=e0ecf9a4554f551158c22015aa48ce42</link>
-      <description></description>
-      <pubDate>Fri, 11 Apr 2025 15:34:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
