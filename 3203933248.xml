@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/3203933248.xml</link>
     <description>作者Allen，知名外企高级工程师。本号专注职业规划/技术科普/智能生活等内容，有意咨询可以添加我的私人V信「coderallen」&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (CodeAllen嵌入式)</managingEditor>
-    <pubDate>Fri, 13 Jun 2025 07:04:50 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 07:04:50 +0800</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 07:04:12 +0800</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 07:04:12 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM45oN55eoqbW3EfUNOmTEDvTuFIuHO8EjlexxjOb9cUgQ/0</url>
       <title>CodeAllen嵌入式</title>
       <link>https://localhost:8080/feed/3203933248.xml</link>
     </image>
+    <item>
+      <title>大学专业介绍 - 电子信息工程</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247488056&amp;idx=1&amp;sn=0d2e1124ee0ee4d8316ef827c4d5c2de</link>
+      <description>置顶/星标公众号，不错过每一条重要消息！大家好，我是专注分享电子信息技术领域-职业规划/技术科普有关原创文章的allen康哥。</description>
+      <pubDate>Sat, 14 Jun 2025 07:04:12 +0800</pubDate>
+    </item>
     <item>
       <title>FreeRTOS是个啥？最通俗易懂的解释</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIwMzkzMzI0OA==&amp;mid=2247488048&amp;idx=1&amp;sn=40220c93e577d63235f431bdb52ce91b</link>
