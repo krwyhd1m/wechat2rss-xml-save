@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sun, 15 Jun 2025 21:26:26 +0800</pubDate>
-    <lastBuildDate>Sun, 15 Jun 2025 21:26:26 +0800</lastBuildDate>
+    <pubDate>Sun, 15 Jun 2025 22:37:38 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Jun 2025 22:37:38 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>经常运动和不运动的人，到底有什么区别？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795386&amp;idx=1&amp;sn=057557c51430d0ca9123759be499f95e</link>
+      <description></description>
+      <pubDate>Sun, 15 Jun 2025 22:37:38 +0800</pubDate>
+    </item>
     <item>
       <title>“遇事先处理情绪，再解决问题”</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795379&amp;idx=1&amp;sn=30a6876350e7b89a11f0d6b67888e7c1</link>
@@ -40,6 +46,12 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795327&amp;idx=1&amp;sn=6659205b18d1e3a6eeca0b320d371c82</link>
       <description></description>
       <pubDate>Sun, 15 Jun 2025 17:12:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>危险！玩具中的铁丝突然扎进女童右眼，紧急提醒→</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795303&amp;idx=1&amp;sn=cd35a4dd64acd67ec09ae5ad3ae73e7d</link>
+      <description></description>
+      <pubDate>Sun, 15 Jun 2025 15:51:07 +0800</pubDate>
     </item>
     <item>
       <title>“棒棒”冉光辉和儿子，有了新合影！</title>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657790510&amp;idx=1&amp;sn=74a7f4be82a34a9601ac67ddd70eed70</link>
       <description></description>
       <pubDate>Mon, 02 Jun 2025 22:40:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>人生有一种遗憾是“我本可以”</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657790506&amp;idx=1&amp;sn=f61b825bac5032269d4514ed0f2e2357</link>
-      <description></description>
-      <pubDate>Mon, 02 Jun 2025 21:49:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>超4.5亿！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657790504&amp;idx=1&amp;sn=136ede0e39d5d3fa0627349a30cb1676</link>
-      <description></description>
-      <pubDate>Mon, 02 Jun 2025 21:21:40 +0800</pubDate>
     </item>
   </channel>
 </rss>
