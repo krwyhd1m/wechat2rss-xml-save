@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Mon, 16 Jun 2025 20:41:47 +0800</pubDate>
-    <lastBuildDate>Mon, 16 Jun 2025 20:41:47 +0800</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 23:52:14 +0800</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2025 23:52:14 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>伊朗国家电视台遭以军袭击，直播中断！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795763&amp;idx=1&amp;sn=5f315ee08cea742ff0b8ee079907c215</link>
+      <description></description>
+      <pubDate>Mon, 16 Jun 2025 23:52:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>习近平同哈萨克斯坦总统托卡耶夫会谈</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795747&amp;idx=1&amp;sn=32ebbf42d3bfe71388597d9dacd74393</link>
+      <description></description>
+      <pubDate>Mon, 16 Jun 2025 22:50:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>好的教育是唤醒！父母要做对这5件事</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795734&amp;idx=1&amp;sn=3d494b086818ba81f5143933794db5e4</link>
+      <description></description>
+      <pubDate>Mon, 16 Jun 2025 22:19:34 +0800</pubDate>
+    </item>
     <item>
       <title>哈萨克斯坦少年儿童用中文作诗，欢迎习主席到访</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795711&amp;idx=1&amp;sn=7915c86f4c403844362aa3891315eaf0</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657790870&amp;idx=1&amp;sn=99a89ecd8d835c3613f2443927035178</link>
       <description></description>
       <pubDate>Wed, 04 Jun 2025 06:53:50 +0800</pubDate>
-    </item>
-    <item>
-      <title>早啊！新闻来了〔2025.06.04〕</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657790851&amp;idx=1&amp;sn=7a471c9a388f701b3ef56dfbf2815b5a</link>
-      <description></description>
-      <pubDate>Wed, 04 Jun 2025 05:39:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>韩国媒体：李在明当选韩国总统</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657790848&amp;idx=1&amp;sn=4c732b1b1f863f92c09e8c5b87511b16</link>
-      <description></description>
-      <pubDate>Wed, 04 Jun 2025 00:00:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>“首先我要快乐，其次都是其次”</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657790834&amp;idx=1&amp;sn=0f7d34d27786c22c402f7edd9c9bbae8</link>
-      <description></description>
-      <pubDate>Tue, 03 Jun 2025 21:24:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
