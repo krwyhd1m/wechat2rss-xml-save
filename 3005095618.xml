@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Sun, 15 Jun 2025 17:00:49 +0800</pubDate>
-    <lastBuildDate>Sun, 15 Jun 2025 17:00:49 +0800</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 13:04:11 +0800</pubDate>
+    <lastBuildDate>Mon, 16 Jun 2025 13:04:11 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>涌现何时发生？机器观察者可以像人类一样识别涌现吗？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572504&amp;idx=1&amp;sn=ead8b04347f0c16a9a830d30f6a71191</link>
+      <description>摘要当前大语言模型的流行带火了一个概念——涌现。人们发现当人工智能参数足够多的时候，可以涌现出很多神奇的能力</description>
+      <pubDate>Mon, 16 Jun 2025 13:04:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>跟着小小的黏菌去计算大大的宇宙</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572504&amp;idx=2&amp;sn=723ce80a4c1f8d9cb679d990e5cac659</link>
+      <description>在浩瀚的自然界中，大到宇宙网的结构、雷电的形状、树枝的分叉，小到菌丝的延伸、神经的分支、黏菌的脉络网，这些毫</description>
+      <pubDate>Mon, 16 Jun 2025 13:04:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>夏天也会“冻死人”！户外运动需警惕！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572504&amp;idx=3&amp;sn=d5c060064a54c449e2e2510650a03d4a</link>
+      <description>夏日到来，户外活动正当时，尤其是徒步、登山、水上运动或露营，成为多数人的选择，但人们往往只关注防晒和中暑，却</description>
+      <pubDate>Mon, 16 Jun 2025 13:04:11 +0800</pubDate>
+    </item>
     <item>
       <title>关于物理所小编“转生”变成AI这档事</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572500&amp;idx=1&amp;sn=293a638fde50378965bd59ea7ca03619</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565614&amp;idx=1&amp;sn=d1b59fd73b44e019d98934ddd11cfff4</link>
       <description></description>
       <pubDate>Mon, 14 Apr 2025 15:48:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>小小“拉机车”居然如此昂贵......</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565609&amp;idx=1&amp;sn=d6a2f70ef2bc6dec15411d824f2a6cc5</link>
-      <description></description>
-      <pubDate>Mon, 14 Apr 2025 11:37:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>概率真实存在吗？——它的概念、历史与意义</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565609&amp;idx=2&amp;sn=3fd18538b20de255073cb0f36fce504a</link>
-      <description></description>
-      <pubDate>Mon, 14 Apr 2025 11:37:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>总感觉身体被掏空？那可能不是肾虚，而是线粒体“虚”了…</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565609&amp;idx=3&amp;sn=753e46b1ac4579bae14ba001f64ab63e</link>
-      <description></description>
-      <pubDate>Mon, 14 Apr 2025 11:37:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
