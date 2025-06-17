@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Mon, 16 Jun 2025 13:04:11 +0800</pubDate>
-    <lastBuildDate>Mon, 16 Jun 2025 13:04:11 +0800</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 10:59:55 +0800</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 10:59:55 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>“杯”中自有颜如玉——果蝇靠喝酒变得性感？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572519&amp;idx=1&amp;sn=51574563100f45adf958842a5a0aa9fc</link>
+      <description>嗝，不能再喝了</description>
+      <pubDate>Tue, 17 Jun 2025 10:59:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>120光年外的“生命信号”：科学家为何对K2-18b如此期待?</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572519&amp;idx=2&amp;sn=f0c76413df5be54c37746943994e1ab7</link>
+      <description>自古以来，人类便仰望星空，不断追问宇宙中是否存在其他生命。近年来，随着数千颗系外行星（即太阳系外的行星）陆续</description>
+      <pubDate>Tue, 17 Jun 2025 10:59:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>一米有多长，一公斤有多重？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572519&amp;idx=3&amp;sn=ad1f6d81e6db82eab8be2f733da05d24</link>
+      <description>1　米—千克—秒的演变你知道现在用来测量长度和质量的单位，米和千克，是怎么来的吗？其实，它们最早起源于179</description>
+      <pubDate>Tue, 17 Jun 2025 10:59:55 +0800</pubDate>
+    </item>
     <item>
       <title>涌现何时发生？机器观察者可以像人类一样识别涌现吗？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572504&amp;idx=1&amp;sn=ead8b04347f0c16a9a830d30f6a71191</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565632&amp;idx=1&amp;sn=6ef8c4b85ab18ebc311903787323f4c6</link>
       <description></description>
       <pubDate>Tue, 15 Apr 2025 11:33:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>最精密的量子探测器，就藏在你的眼睛里？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565632&amp;idx=2&amp;sn=46fa98a525c5b636c2b3b78d477d6dee</link>
-      <description>人眼是如何感知到色彩的？视觉的本质竟与量子力学相关？2025年恰逢联合国国际量子科学技术年（IYQ），让诺奖</description>
-      <pubDate>Tue, 15 Apr 2025 11:33:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>科研人员揭秘“红色精灵”群舞</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565632&amp;idx=3&amp;sn=41947b8caabf88d2be6dced44036833e</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 11:33:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>发现金属室温d波交错磁体KV₂Se₂O | 进展</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565614&amp;idx=1&amp;sn=d1b59fd73b44e019d98934ddd11cfff4</link>
-      <description></description>
-      <pubDate>Mon, 14 Apr 2025 15:48:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
