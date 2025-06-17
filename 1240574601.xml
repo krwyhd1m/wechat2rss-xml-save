@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Tue, 17 Jun 2025 22:55:29 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 22:55:29 +0800</lastBuildDate>
+    <pubDate>Wed, 18 Jun 2025 05:48:24 +0800</pubDate>
+    <lastBuildDate>Wed, 18 Jun 2025 05:48:24 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.06.18〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657796159&amp;idx=1&amp;sn=7d9545a3e2542310f7284c1cc2d09680</link>
+      <description></description>
+      <pubDate>Wed, 18 Jun 2025 05:48:24 +0800</pubDate>
+    </item>
     <item>
       <title>习近平出席第二届中国－中亚峰会并作主旨发言</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657796116&amp;idx=1&amp;sn=f7f0262d5a8cf9f112b3aa27210b298a</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657791403&amp;idx=1&amp;sn=f9e3723e9ce1cd4787839e143d91d091</link>
       <description></description>
       <pubDate>Thu, 05 Jun 2025 09:52:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>美国宣布将对哈佛大学国际学生实行签证限制</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657791401&amp;idx=1&amp;sn=a4de39243908e803f8b3c9a789ef0a76</link>
-      <description></description>
-      <pubDate>Thu, 05 Jun 2025 09:11:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
