@@ -4,13 +4,37 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Tue, 17 Jun 2025 19:49:07 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 19:49:07 +0800</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 22:55:29 +0800</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 22:55:29 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>习近平出席第二届中国－中亚峰会并作主旨发言</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657796116&amp;idx=1&amp;sn=f7f0262d5a8cf9f112b3aa27210b298a</link>
+      <description></description>
+      <pubDate>Tue, 17 Jun 2025 22:55:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>勇敢做自己的9个方法</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657796107&amp;idx=1&amp;sn=41d13d4a7d1e57de3abcaeb030725ecc</link>
+      <description></description>
+      <pubDate>Tue, 17 Jun 2025 22:15:41 +0800</pubDate>
+    </item>
+    <item>
+      <title>它是平价蔬菜里的“营养巨星”，建议你多吃！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657796106&amp;idx=1&amp;sn=8ee6d688889eb3d20dd81ea33f64abc9</link>
+      <description></description>
+      <pubDate>Tue, 17 Jun 2025 21:58:11 +0800</pubDate>
+    </item>
+    <item>
+      <title>这碗从小吃到大的面，究竟藏着多少门道？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657796106&amp;idx=2&amp;sn=035ac98ad73ddbef677cb66a42884e50</link>
+      <description></description>
+      <pubDate>Tue, 17 Jun 2025 21:58:11 +0800</pubDate>
+    </item>
     <item>
       <title>习近平：各方应该推动中东局势尽快降温</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657796041&amp;idx=1&amp;sn=651d0ff6e20e141b4a71d410ddb4ba74</link>
@@ -1186,30 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657791401&amp;idx=1&amp;sn=a4de39243908e803f8b3c9a789ef0a76</link>
       <description></description>
       <pubDate>Thu, 05 Jun 2025 09:11:09 +0800</pubDate>
-    </item>
-    <item>
-      <title>特朗普全面暂停12个国家的公民进入美国</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657791395&amp;idx=1&amp;sn=dc9b551ebcdde13237ef945453f411d7</link>
-      <description></description>
-      <pubDate>Thu, 05 Jun 2025 08:42:04 +0800</pubDate>
-    </item>
-    <item>
-      <title>悬赏通缉！20名台湾民进党当局“资通电军”首要嫌犯曝光</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657791373&amp;idx=1&amp;sn=f5de18a004b3658b7aede3c8ef2a2b3d</link>
-      <description></description>
-      <pubDate>Thu, 05 Jun 2025 08:07:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>今日，芒种！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657791362&amp;idx=1&amp;sn=83578eba0f34e5aa6cf702f3f453a0eb</link>
-      <description></description>
-      <pubDate>Thu, 05 Jun 2025 06:51:09 +0800</pubDate>
-    </item>
-    <item>
-      <title>早啊！新闻来了〔2025.06.05〕</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657791351&amp;idx=1&amp;sn=07c0340116ae3263530ee25a67b39d10</link>
-      <description></description>
-      <pubDate>Thu, 05 Jun 2025 05:49:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
