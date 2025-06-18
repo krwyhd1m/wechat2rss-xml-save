@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Tue, 17 Jun 2025 10:59:55 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 10:59:55 +0800</lastBuildDate>
+    <pubDate>Wed, 18 Jun 2025 09:29:42 +0800</pubDate>
+    <lastBuildDate>Wed, 18 Jun 2025 09:29:42 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>怎么用科学让青蛙漂浮起来？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572521&amp;idx=1&amp;sn=997a4523746b74d77e1e7cbde7e77b54</link>
+      <description>孙悟空能腾云驾雾，哪吒能上天入地，哈利・波特里的巫师骑个扫帚就能原地起飞，而现实中的我……起跳半米就落地（）</description>
+      <pubDate>Wed, 18 Jun 2025 09:29:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>热热热，快来解锁游泳新姿势！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572521&amp;idx=2&amp;sn=ca7218a96f49c9209f8dad44064055d0</link>
+      <description>在浩瀚无边的海洋世界里，有一种鱼拥有巨大的“翅膀”，它就是蝠鲼。它们摆动双鳍在水中自由畅游，仿佛舒展翅膀优美</description>
+      <pubDate>Wed, 18 Jun 2025 09:29:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>霍尔效应的时空华尔兹</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572521&amp;idx=3&amp;sn=3d2f213f911fd1ec3cc2af37f234b013</link>
+      <description>从1879年霍尔效应的最早发现，到更多种霍尔效应的陆续发现，霍尔效应“大家族”不仅推动了电子元器件的大发展，</description>
+      <pubDate>Wed, 18 Jun 2025 09:29:42 +0800</pubDate>
+    </item>
     <item>
       <title>“杯”中自有颜如玉——果蝇靠喝酒变得性感？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572519&amp;idx=1&amp;sn=51574563100f45adf958842a5a0aa9fc</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565681&amp;idx=2&amp;sn=9efea2d07c5e3824d0bf0206c5a90b8a</link>
       <description>最近，邻居家小孩报了个小提琴班，在家练习的时候，经常会传来一阵阵的锯木头声，有时甚至像尖叫鸡的声音。我家小孩</description>
       <pubDate>Wed, 16 Apr 2025 10:04:37 +0800</pubDate>
-    </item>
-    <item>
-      <title>从物体检测到通用视觉感知：构建空间智能的基础</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565681&amp;idx=3&amp;sn=ca19813284bcaaea6be647543788a3e2</link>
-      <description>随着以ChatGPT为代表的生成式人工智能的突飞猛进，人工智能（AI）正在从处理文本、2D图像和视频向空间智</description>
-      <pubDate>Wed, 16 Apr 2025 10:04:37 +0800</pubDate>
-    </item>
-    <item>
-      <title>超快动力学揭示1T-TaS₂中演生新奇量子态 | 进展</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565637&amp;idx=1&amp;sn=fc69dcd8e11b50f3401602e10a2ad94a</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 18:28:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>飞行模式能拯救你的手机吗？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565632&amp;idx=1&amp;sn=6ef8c4b85ab18ebc311903787323f4c6</link>
-      <description></description>
-      <pubDate>Tue, 15 Apr 2025 11:33:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
