@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 20 Jun 2025 22:08:51 +0800</pubDate>
-    <lastBuildDate>Fri, 20 Jun 2025 22:08:51 +0800</lastBuildDate>
+    <pubDate>Sat, 21 Jun 2025 05:45:52 +0800</pubDate>
+    <lastBuildDate>Sat, 21 Jun 2025 05:45:52 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.06.21〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797005&amp;idx=1&amp;sn=88f4f52e6fa9628c1ce590c03aea29b8</link>
+      <description></description>
+      <pubDate>Sat, 21 Jun 2025 05:45:52 +0800</pubDate>
+    </item>
     <item>
       <title>“一骑红尘”，很多人都读错了……</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657796975&amp;idx=1&amp;sn=0ed3d98ea86537e3626024d547d6d42e</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792609&amp;idx=1&amp;sn=ef50256f814d2cc181b9ee738f5c8531</link>
       <description></description>
       <pubDate>Sat, 07 Jun 2025 15:33:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>高考送考名场面，来了！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792596&amp;idx=1&amp;sn=491628dd6177352687462d8b15cffd86</link>
-      <description></description>
-      <pubDate>Sat, 07 Jun 2025 14:36:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
