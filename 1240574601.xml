@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sat, 21 Jun 2025 21:37:03 +0800</pubDate>
-    <lastBuildDate>Sat, 21 Jun 2025 21:37:03 +0800</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 05:36:26 +0800</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 05:36:26 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.06.22〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797306&amp;idx=1&amp;sn=3f41aa9dd558f02a74db1a73a1f64486</link>
+      <description></description>
+      <pubDate>Sun, 22 Jun 2025 05:36:26 +0800</pubDate>
+    </item>
     <item>
       <title>东坡先生，荔枝熟了！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797296&amp;idx=1&amp;sn=b29d6fb96af762d68145ed8aa7f7f187</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792978&amp;idx=1&amp;sn=39b5c08c166e265f54d429ba11d028b2</link>
       <description></description>
       <pubDate>Sun, 08 Jun 2025 13:03:08 +0800</pubDate>
-    </item>
-    <item>
-      <title>空调一开一关和一直开着，哪个更费电？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657792977&amp;idx=1&amp;sn=0cac4af10166f8719e1b8bf9ad7e6552</link>
-      <description></description>
-      <pubDate>Sun, 08 Jun 2025 11:12:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
