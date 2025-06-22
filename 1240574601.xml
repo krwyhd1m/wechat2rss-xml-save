@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sun, 22 Jun 2025 20:27:22 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 20:27:22 +0800</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 21:47:23 +0800</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 21:47:23 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>保护情绪和保护健康一样重要</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797799&amp;idx=1&amp;sn=ab931ffb5eb8e32280bce11a9effb963</link>
+      <description></description>
+      <pubDate>Sun, 22 Jun 2025 21:47:23 +0800</pubDate>
+    </item>
     <item>
       <title>洗完衣服后的这个动作，可能引发多种疾病</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797716&amp;idx=1&amp;sn=9b26613a47724a2308df939059a194b0</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793281&amp;idx=1&amp;sn=a7af3e3365c6d5ac5f50adde0fb6b85d</link>
       <description></description>
       <pubDate>Mon, 09 Jun 2025 12:51:11 +0800</pubDate>
-    </item>
-    <item>
-      <title>这所新组建军校，今年开始招生！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793275&amp;idx=1&amp;sn=e815522c25772dfb0691896650d01fdf</link>
-      <description></description>
-      <pubDate>Mon, 09 Jun 2025 12:31:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
