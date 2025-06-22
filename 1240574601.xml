@@ -4,13 +4,37 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Sun, 22 Jun 2025 12:31:23 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 12:31:23 +0800</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 20:27:22 +0800</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 20:27:22 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>洗完衣服后的这个动作，可能引发多种疾病</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797716&amp;idx=1&amp;sn=9b26613a47724a2308df939059a194b0</link>
+      <description></description>
+      <pubDate>Sun, 22 Jun 2025 20:27:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>美国打击伊朗核设施，中方强烈谴责！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797680&amp;idx=1&amp;sn=c01b676f92f5ac1d03e43e2295f85156</link>
+      <description></description>
+      <pubDate>Sun, 22 Jun 2025 19:19:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>新一批陆军女飞，全优通过！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797533&amp;idx=1&amp;sn=d71bfa3cdc8ab8c3361abf464586defd</link>
+      <description></description>
+      <pubDate>Sun, 22 Jun 2025 16:20:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>至少20枚导弹！伊朗发动新一轮袭击</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797409&amp;idx=1&amp;sn=05b759057a5553abd64fab246eda4c52</link>
+      <description></description>
+      <pubDate>Sun, 22 Jun 2025 14:19:00 +0800</pubDate>
+    </item>
     <item>
       <title>天气炎热，睡觉时开窗好还是开空调好？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657797389&amp;idx=1&amp;sn=6abd619b70cf365517eaa348b7b260df</link>
@@ -1186,30 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793275&amp;idx=1&amp;sn=e815522c25772dfb0691896650d01fdf</link>
       <description></description>
       <pubDate>Mon, 09 Jun 2025 12:31:53 +0800</pubDate>
-    </item>
-    <item>
-      <title>洛杉矶冲突持续升级！中领馆紧急提醒！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793252&amp;idx=1&amp;sn=cf1ed06e7416cd61a8d2a79705e220cb</link>
-      <description></description>
-      <pubDate>Mon, 09 Jun 2025 11:33:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>“王楚钦，你做到了！”</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793247&amp;idx=1&amp;sn=39c222eeaa75ca5704bf588eef5b74c1</link>
-      <description></description>
-      <pubDate>Mon, 09 Jun 2025 10:40:29 +0800</pubDate>
-    </item>
-    <item>
-      <title>800元瘦身咖啡成本仅1元？起底网红速瘦产品→</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793214&amp;idx=1&amp;sn=9e464d5b6b0e441327dd2da7d59c4dcc</link>
-      <description></description>
-      <pubDate>Mon, 09 Jun 2025 07:42:40 +0800</pubDate>
-    </item>
-    <item>
-      <title>早啊！新闻来了〔2025.06.09〕</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793191&amp;idx=1&amp;sn=c7a4460f254153497765eba2fd8decfa</link>
-      <description></description>
-      <pubDate>Mon, 09 Jun 2025 05:40:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
