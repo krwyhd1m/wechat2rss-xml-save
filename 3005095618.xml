@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Sun, 22 Jun 2025 19:48:20 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 19:48:20 +0800</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 10:59:51 +0800</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 10:59:51 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>1ᵏ+2ᵏ+ ⋯ + nᵏ = ?</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572656&amp;idx=1&amp;sn=75ac12e03840e2c484ff99111b2e8fc7</link>
+      <description>这里我们介绍一种基于分部积分法的处理方法，不仅能获得连续自然数幂次的一般求和公式，还能附带证明一个有趣的猜想</description>
+      <pubDate>Mon, 23 Jun 2025 10:59:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>丹尼索瓦人终于“有脸”了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572656&amp;idx=2&amp;sn=053d4dfd482c717af6c0f23836f70508</link>
+      <description>2021年时，哈尔滨头骨个体的复原图和他的生活环境复原图。赵闯绘‍‍‍编者按：中国哈尔滨的龙人属于丹尼索瓦人</description>
+      <pubDate>Mon, 23 Jun 2025 10:59:51 +0800</pubDate>
+    </item>
+    <item>
+      <title>大脑的“压缩算法”：人类泛化学习背后的机制</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572656&amp;idx=3&amp;sn=f07691e95da4179cc3358980ee20d32a</link>
+      <description>摘要强化学习理论将人类行为解释为受最大化奖励这一目标的驱动。然而，传统方法对于人们如何从过往经验推广到新情境</description>
+      <pubDate>Mon, 23 Jun 2025 10:59:51 +0800</pubDate>
+    </item>
     <item>
       <title>活动报名 | 科学公开课（第七季）录制现场，等你来！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572650&amp;idx=1&amp;sn=6c556ffc863cd8f33a45b7ca575bc402</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566009&amp;idx=1&amp;sn=e257c56169be30bc45325b8afb213efb</link>
       <description></description>
       <pubDate>Sun, 20 Apr 2025 16:36:51 +0800</pubDate>
-    </item>
-    <item>
-      <title>天塌了！！！盐水竟然不是上下一般咸？！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565998&amp;idx=1&amp;sn=d0c266421f6427f93879961f41a6a43e</link>
-      <description></description>
-      <pubDate>Sun, 20 Apr 2025 11:48:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>为了让机器人跑起来，人类用了 60 年</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565998&amp;idx=2&amp;sn=98c24f0ccd73cc3d91c915b325f8d30b</link>
-      <description></description>
-      <pubDate>Sun, 20 Apr 2025 11:48:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>人类大脑是如何进化的？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651565998&amp;idx=3&amp;sn=41158188fc69a3c589b435b5642fc935</link>
-      <description></description>
-      <pubDate>Sun, 20 Apr 2025 11:48:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
