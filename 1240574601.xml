@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Mon, 23 Jun 2025 20:06:01 +0800</pubDate>
-    <lastBuildDate>Mon, 23 Jun 2025 20:06:01 +0800</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 21:44:41 +0800</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 21:44:41 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>如果事与愿违，请相信是另有安排</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657798079&amp;idx=1&amp;sn=029c9c2d9bdd0dbb6763eeba849f5f58</link>
+      <description></description>
+      <pubDate>Mon, 23 Jun 2025 21:44:41 +0800</pubDate>
+    </item>
     <item>
       <title>长期吃米和长期吃面的人，谁的心血管更健康？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657798054&amp;idx=1&amp;sn=fcc88c298b3b37866d22c1e028997d17</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793674&amp;idx=1&amp;sn=93ba50be9f6f1d58439484773e9f1f61</link>
       <description></description>
       <pubDate>Tue, 10 Jun 2025 11:48:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>经常手脚发麻的人，建议查一下血脂</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657793665&amp;idx=1&amp;sn=2e5b36ed520a65d248e37807417e5032</link>
-      <description></description>
-      <pubDate>Tue, 10 Jun 2025 11:11:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
