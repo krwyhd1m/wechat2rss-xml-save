@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Mon, 23 Jun 2025 10:59:51 +0800</pubDate>
-    <lastBuildDate>Mon, 23 Jun 2025 10:59:51 +0800</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 20:46:14 +0800</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 20:46:14 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>平面霍尔效应——揭示重费米子物理本质的新工具 | 进展</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572661&amp;idx=1&amp;sn=20fcfeefe6f14d1c7706fb4fb9bd6d1a</link>
+      <description>强关联电子的局域-巡游特性转变是决定强关联系统正常态奇异物性和非常规超导性质的深层次物理根源。</description>
+      <pubDate>Mon, 23 Jun 2025 20:46:14 +0800</pubDate>
+    </item>
     <item>
       <title>1ᵏ+2ᵏ+ ⋯ + nᵏ = ?</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572656&amp;idx=1&amp;sn=75ac12e03840e2c484ff99111b2e8fc7</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566018&amp;idx=3&amp;sn=d3b6ddfb6006534d96cca5eb01a76f18</link>
       <description>说起常数，大多数人想到的就是不变的数。例如数学中的各种数，有理数或无理数都是，复数也是，比较常见的例如0、1</description>
       <pubDate>Mon, 21 Apr 2025 09:48:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>非厄米光学系统奇异点和连续域束缚态的拓扑能带调控 | 进展</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566009&amp;idx=1&amp;sn=e257c56169be30bc45325b8afb213efb</link>
-      <description></description>
-      <pubDate>Sun, 20 Apr 2025 16:36:51 +0800</pubDate>
     </item>
   </channel>
 </rss>
