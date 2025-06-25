@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Wed, 25 Jun 2025 22:59:00 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Jun 2025 22:59:00 +0800</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 05:42:15 +0800</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 05:42:15 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.06.26〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799146&amp;idx=1&amp;sn=0e754afe05e0a6d476f53c3dffcc6dcd</link>
+      <description></description>
+      <pubDate>Thu, 26 Jun 2025 05:42:15 +0800</pubDate>
+    </item>
     <item>
       <title>就冲这几点，女性也要多练肌肉！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799135&amp;idx=1&amp;sn=287e65f328d604c591b776300c791569</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794500&amp;idx=1&amp;sn=d00c4a3514f3b86e1ce75649c57e6745</link>
       <description></description>
       <pubDate>Thu, 12 Jun 2025 16:58:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>“中国潮玩海外爆火”！外交部回应</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794443&amp;idx=1&amp;sn=6b4ec7b48171e5fafa1057198e5ee678</link>
-      <description></description>
-      <pubDate>Thu, 12 Jun 2025 15:36:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
