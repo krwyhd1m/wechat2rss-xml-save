@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Wed, 25 Jun 2025 19:24:17 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Jun 2025 19:24:17 +0800</lastBuildDate>
+    <pubDate>Wed, 25 Jun 2025 22:59:00 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Jun 2025 22:59:00 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>就冲这几点，女性也要多练肌肉！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799135&amp;idx=1&amp;sn=287e65f328d604c591b776300c791569</link>
+      <description></description>
+      <pubDate>Wed, 25 Jun 2025 22:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>祝你在无数个选择后走向自己</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799124&amp;idx=1&amp;sn=236c2206d3144a7ad0de7dcc16e86752</link>
+      <description></description>
+      <pubDate>Wed, 25 Jun 2025 21:32:06 +0800</pubDate>
+    </item>
     <item>
       <title>8岁女童持续呕出活虫！医生揪出元凶，可能你家也有→</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799083&amp;idx=1&amp;sn=22cd5ffd6d83eab369fb6f739864ff43</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794443&amp;idx=1&amp;sn=6b4ec7b48171e5fafa1057198e5ee678</link>
       <description></description>
       <pubDate>Thu, 12 Jun 2025 15:36:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>高考志愿填报需要注意什么？一文了解→</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794443&amp;idx=2&amp;sn=511a40e9344d116498f3afb8bce9f8d9</link>
-      <description></description>
-      <pubDate>Thu, 12 Jun 2025 15:36:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>热地同志遗体在京火化 习近平等到八宝山革命公墓送别</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794382&amp;idx=1&amp;sn=0c9ae6d680469f0e8b02c2e1162dd222</link>
-      <description></description>
-      <pubDate>Thu, 12 Jun 2025 14:42:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
