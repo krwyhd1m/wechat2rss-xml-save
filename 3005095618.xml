@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Wed, 25 Jun 2025 16:31:15 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Jun 2025 16:31:15 +0800</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 12:35:03 +0800</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 12:35:03 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>鲨鱼皮泳衣为什么游得快？吃完炸鱼鳞我研究出来了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572706&amp;idx=1&amp;sn=6459ad1faf0e692c4ac27377b4f64352</link>
+      <description>说到鱼鳞，你会想到什么。是想做一道鱼类美食时最头疼的刮鳞步骤，还是“废物利用”炸出来也很好吃的鱼鳞？你还没吃</description>
+      <pubDate>Thu, 26 Jun 2025 12:35:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>人类的八成装备因它而损耗失效，我们最大的梦想就是让它消失</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572706&amp;idx=2&amp;sn=f0ea7ccfe48c0e50f5c04878e045047d</link>
+      <description>研究摩擦力的所有科学家，都有一个最大的梦想，就是能不能把摩擦控制住，或者把摩擦去除掉。我想分享一个与日常生活</description>
+      <pubDate>Thu, 26 Jun 2025 12:35:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>星系大战用什么武器？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572706&amp;idx=3&amp;sn=b1f34a29fc1111098f3ebfdf517da0c9</link>
+      <description>/ 星系大战最近，天文学家首次目睹了一场猛烈的宇宙碰撞，其中一个星系以强烈的辐射穿透了另一个星系，从而抑制了</description>
+      <pubDate>Thu, 26 Jun 2025 12:35:03 +0800</pubDate>
+    </item>
     <item>
       <title>Early Bird Registration of the CCMP 2025 is closing soon! | 会议通知</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572704&amp;idx=1&amp;sn=3ade2371d1e8a8473f32f08bc213eb02</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566182&amp;idx=1&amp;sn=6f4d5eac0eef38a9637779f0fa63a195</link>
       <description>32前段时间，一名乳腺癌患者发了个视频提醒，购物小票中含有双酚A，可能会影响生殖发育和致癌，引起了网友热烈讨</description>
       <pubDate>Thu, 24 Apr 2025 12:10:13 +0800</pubDate>
-    </item>
-    <item>
-      <title>晶圆是如何制造出来的？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566182&amp;idx=2&amp;sn=f0fa59c33875ef78d06d3fa228c55e5c</link>
-      <description>芯片，是人类科技的精华，也被称为现代工业皇冠上的明珠。芯片的基本组成是晶体管。晶体管的基本工作原理其实并不复</description>
-      <pubDate>Thu, 24 Apr 2025 12:10:13 +0800</pubDate>
-    </item>
-    <item>
-      <title>葡萄是怎么被批量剥皮的？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566182&amp;idx=3&amp;sn=cf2ca244d8b6d8f3cdb54764de072dfd</link>
-      <description></description>
-      <pubDate>Thu, 24 Apr 2025 12:10:13 +0800</pubDate>
-    </item>
-    <item>
-      <title>隔墙“透视”？这届科学家正在偷偷点什么科技树？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566173&amp;idx=1&amp;sn=8fd68eb8aebcb2a1038ff2c7157ef284</link>
-      <description>成像艺术是一门古老而又全新的科学，未来我们要不断发展成像技术，以此服务大众、造福人类社会。</description>
-      <pubDate>Wed, 23 Apr 2025 14:15:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
