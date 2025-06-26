@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Thu, 26 Jun 2025 21:20:10 +0800</pubDate>
-    <lastBuildDate>Thu, 26 Jun 2025 21:20:10 +0800</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 05:38:56 +0800</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 05:38:56 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.06.27〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799501&amp;idx=1&amp;sn=4b1cc79da0c7df38ba280d0cee73b30a</link>
+      <description></description>
+      <pubDate>Fri, 27 Jun 2025 05:38:56 +0800</pubDate>
+    </item>
     <item>
       <title>分数虽有高低，人生没有高下</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799473&amp;idx=1&amp;sn=7a0de50608ab299eb1be62c37d28e670</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794739&amp;idx=1&amp;sn=7afd354bab1edbc53eed4cadfc0273a0</link>
       <description></description>
       <pubDate>Fri, 13 Jun 2025 14:28:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>避免“一人住院全家受累”，免陪照护病房什么样？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794715&amp;idx=1&amp;sn=fa3867f55bfd275202e99219e9da90c2</link>
-      <description></description>
-      <pubDate>Fri, 13 Jun 2025 13:25:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
