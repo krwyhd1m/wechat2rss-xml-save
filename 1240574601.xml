@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Thu, 26 Jun 2025 19:30:43 +0800</pubDate>
-    <lastBuildDate>Thu, 26 Jun 2025 19:30:43 +0800</lastBuildDate>
+    <pubDate>Thu, 26 Jun 2025 21:20:10 +0800</pubDate>
+    <lastBuildDate>Thu, 26 Jun 2025 21:20:10 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>分数虽有高低，人生没有高下</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799473&amp;idx=1&amp;sn=7a0de50608ab299eb1be62c37d28e670</link>
+      <description></description>
+      <pubDate>Thu, 26 Jun 2025 21:20:10 +0800</pubDate>
+    </item>
     <item>
       <title>1+2+5=___？这里有不一样的回答</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799435&amp;idx=1&amp;sn=5ce280134a6b0a29dc8f27b745ef7ea6</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794715&amp;idx=1&amp;sn=fa3867f55bfd275202e99219e9da90c2</link>
       <description></description>
       <pubDate>Fri, 13 Jun 2025 13:25:09 +0800</pubDate>
-    </item>
-    <item>
-      <title>伊朗：以色列将付出“沉重代价”！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794680&amp;idx=1&amp;sn=b6f4b03ad4061b655c9240c8c20204d8</link>
-      <description></description>
-      <pubDate>Fri, 13 Jun 2025 11:52:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
