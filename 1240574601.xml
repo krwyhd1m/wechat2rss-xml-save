@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 27 Jun 2025 22:34:40 +0800</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 22:34:40 +0800</lastBuildDate>
+    <pubDate>Sat, 28 Jun 2025 05:45:16 +0800</pubDate>
+    <lastBuildDate>Sat, 28 Jun 2025 05:45:16 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>早啊！新闻来了〔2025.06.28〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799878&amp;idx=1&amp;sn=c7edccbe3b24ef03a313dc9fed2b2cf7</link>
+      <description></description>
+      <pubDate>Sat, 28 Jun 2025 05:45:16 +0800</pubDate>
+    </item>
     <item>
       <title>网友划重点：看他的笑容就知道了~</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799870&amp;idx=1&amp;sn=273a10c38de506aab47bf6473265334e</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795024&amp;idx=1&amp;sn=2fe289a39b5ae9dbdece44f9516d255f</link>
       <description></description>
       <pubDate>Sat, 14 Jun 2025 12:02:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>伊朗公布照片：称击落以色列F-35战机</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794997&amp;idx=1&amp;sn=93bf314ed0ce8bea5908a0943d7138b8</link>
-      <description></description>
-      <pubDate>Sat, 14 Jun 2025 10:34:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
