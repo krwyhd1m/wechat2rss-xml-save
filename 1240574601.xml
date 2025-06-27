@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Fri, 27 Jun 2025 20:07:11 +0800</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 20:07:11 +0800</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 22:34:40 +0800</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 22:34:40 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>网友划重点：看他的笑容就知道了~</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799870&amp;idx=1&amp;sn=273a10c38de506aab47bf6473265334e</link>
+      <description></description>
+      <pubDate>Fri, 27 Jun 2025 22:34:40 +0800</pubDate>
+    </item>
+    <item>
+      <title>这就是滋养灵魂的最好方式</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799854&amp;idx=1&amp;sn=b0e902b56cb0ad455d09247a26924f81</link>
+      <description></description>
+      <pubDate>Fri, 27 Jun 2025 21:26:33 +0800</pubDate>
+    </item>
     <item>
       <title>中国男足换帅！</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657799828&amp;idx=1&amp;sn=c936c084dff23c117791ab24d40bb3f4</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794997&amp;idx=1&amp;sn=93bf314ed0ce8bea5908a0943d7138b8</link>
       <description></description>
       <pubDate>Sat, 14 Jun 2025 10:34:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>用意念玩游戏！我国成功开展首例侵入式脑机接口临床试验</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794984&amp;idx=1&amp;sn=024f1360c57b1147928fa31ca321a902</link>
-      <description></description>
-      <pubDate>Sat, 14 Jun 2025 09:46:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>雷佳音：李善德身上有一种安静感</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657794981&amp;idx=1&amp;sn=84f8a6cdc83911d0e4e86257dfca8393</link>
-      <description></description>
-      <pubDate>Sat, 14 Jun 2025 09:10:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
