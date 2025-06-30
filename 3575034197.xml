@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/3575034197.xml</link>
     <description>一只学霸本霸！关注我，奇怪的知识又增加了！&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (学霸本霸)</managingEditor>
-    <pubDate>Sun, 29 Jun 2025 21:01:28 +0800</pubDate>
-    <lastBuildDate>Sun, 29 Jun 2025 21:01:28 +0800</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 21:00:47 +0800</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 21:00:47 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM74cEQ5sULicia544DTK3NJzJalIGBkH5VqDib41avOLKXrg/0</url>
       <title>学霸本霸</title>
       <link>https://localhost:8080/feed/3575034197.xml</link>
     </image>
+    <item>
+      <title>凭啥小拇指断了是轻伤，大拇指断了就是重伤？！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzU3NTAzNDE5Nw==&amp;mid=2247732645&amp;idx=1&amp;sn=5fb37ae03ef824339843be1e1dd363bd</link>
+      <description></description>
+      <pubDate>Mon, 30 Jun 2025 21:00:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>这栋大楼可以发出“死亡射线”，把人的头发都烤焦了</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzU3NTAzNDE5Nw==&amp;mid=2247732645&amp;idx=2&amp;sn=7caf2fdb7c3321009add545150c26be8</link>
+      <description>还可以把车融化</description>
+      <pubDate>Mon, 30 Jun 2025 21:00:47 +0800</pubDate>
+    </item>
     <item>
       <title>从眼角拉出来一根长长的白丝，到底是什么？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzU3NTAzNDE5Nw==&amp;mid=2247732616&amp;idx=1&amp;sn=66c980151240e513cc861fd4bdb42a1b</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzU3NTAzNDE5Nw==&amp;mid=2247728852&amp;idx=2&amp;sn=31557bf7882c600e645445bee800ee0e</link>
       <description></description>
       <pubDate>Fri, 21 Mar 2025 20:27:10 +0800</pubDate>
-    </item>
-    <item>
-      <title>最近出现这4个变化，说明你的脸已经开始垮了！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzU3NTAzNDE5Nw==&amp;mid=2247728702&amp;idx=1&amp;sn=467e58e1fe7b497b739b4f7c917fe624</link>
-      <description></description>
-      <pubDate>Thu, 20 Mar 2025 20:32:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>为啥女生内裤裆部的小布块，比男生的小那么多？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzU3NTAzNDE5Nw==&amp;mid=2247728702&amp;idx=2&amp;sn=099361913293f3b4ea29de1e7fed32fc</link>
-      <description></description>
-      <pubDate>Thu, 20 Mar 2025 20:32:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
