@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Mon, 30 Jun 2025 20:02:09 +0800</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 20:02:09 +0800</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 22:46:22 +0800</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 22:46:22 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>6本很薄却好看的书，拿起就放不下</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657801027&amp;idx=1&amp;sn=c28d9d1c9fd54631905918a0644a9fdc</link>
+      <description></description>
+      <pubDate>Mon, 30 Jun 2025 22:46:22 +0800</pubDate>
+    </item>
     <item>
       <title>习近平：坚持从抓作风入手推进全面从严治党</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657800880&amp;idx=1&amp;sn=53220937d445c928e64915462eb5b6ba</link>
@@ -1204,12 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795660&amp;idx=2&amp;sn=b9d010266d956795d418ac19c0e01db6</link>
       <description></description>
       <pubDate>Mon, 16 Jun 2025 19:18:49 +0800</pubDate>
-    </item>
-    <item>
-      <title>独家视频 | 习近平抵达阿斯塔纳出席第二届中国—中亚峰会</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795611&amp;idx=1&amp;sn=9e33eac28dda11c03ad0bd81be89045e</link>
-      <description></description>
-      <pubDate>Mon, 16 Jun 2025 17:24:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
