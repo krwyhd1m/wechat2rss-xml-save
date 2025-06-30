@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/1240574601.xml</link>
     <description>“央视新闻”是中央广播电视总台新闻新媒体旗舰账号，是重大新闻、突发事件和重要报道的总台首发平台。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (央视新闻)</managingEditor>
-    <pubDate>Mon, 30 Jun 2025 22:46:22 +0800</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 22:46:22 +0800</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 06:51:30 +0800</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 06:51:30 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/1gvL9ficRs1HFLPPUtvXX4cicRhNLoO8Wkfq0ugB0Wwiafic1GpLcEcWsyr9U8jLicjqg3BnIDXks7xo/0</url>
       <title>央视新闻</title>
       <link>https://localhost:8080/feed/1240574601.xml</link>
     </image>
+    <item>
+      <title>104岁生日，共同祝福！</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657801055&amp;idx=1&amp;sn=c0b2e3ef4493fc306073b06763f5083b</link>
+      <description>今天是中国共产党104岁生日🎂&#xA;104年，中国共产党砥砺奋进，风华正茂&#xA;&#xA;“为中国人民谋幸福&#xA;为中华民族谋复兴”&#xA;这一初心使命&#xA;激励着10027.1万名党员不断前进&#xA;&#xA;身为“亿”分之一的我们&#xA;以青春逐梦&#xA;用奋斗铸就信仰之光&#xA;我们在各自的岗位上发光发热&#xA;汇聚成一心一“亿”的磅礴力量&#xA;&#xA;今天，一起祝福伟大的党，祝福伟大的祖国🎉</description>
+      <pubDate>Tue, 01 Jul 2025 06:51:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>早啊！新闻来了〔2025.07.01〕</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657801054&amp;idx=1&amp;sn=7fd025477068e4e7469b6d14a642be75</link>
+      <description></description>
+      <pubDate>Tue, 01 Jul 2025 05:45:59 +0800</pubDate>
+    </item>
     <item>
       <title>6本很薄却好看的书，拿起就放不下</title>
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657801027&amp;idx=1&amp;sn=c28d9d1c9fd54631905918a0644a9fdc</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795711&amp;idx=1&amp;sn=7915c86f4c403844362aa3891315eaf0</link>
       <description></description>
       <pubDate>Mon, 16 Jun 2025 20:41:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>高考出分前要做哪些准备？志愿填报必看！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795660&amp;idx=1&amp;sn=391351322f46c71e32148b6982dac42b</link>
-      <description></description>
-      <pubDate>Mon, 16 Jun 2025 19:18:49 +0800</pubDate>
-    </item>
-    <item>
-      <title>惊喜不断！探秘高品质MPV技术全景→</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&amp;mid=2657795660&amp;idx=2&amp;sn=b9d010266d956795d418ac19c0e01db6</link>
-      <description></description>
-      <pubDate>Mon, 16 Jun 2025 19:18:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
