@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Mon, 30 Jun 2025 18:07:47 +0800</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 18:07:47 +0800</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 13:07:53 +0800</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 13:07:53 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>如果你把一杯奶茶扔进黑洞，会发生什么？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572887&amp;idx=1&amp;sn=d8459e40f17aeb81fcd588cfbe46a151</link>
+      <description>幻想，或许在照亮科学最黑暗、最神秘的角落时，扮演着举足轻重的角色。</description>
+      <pubDate>Tue, 01 Jul 2025 13:07:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>电梯里的信号去哪了？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572887&amp;idx=2&amp;sn=f5ddbdfcb59094c4b4bea11c1a08425a</link>
+      <description>想象一下：你刚进电梯，手机突然从满格信号变成“无服务”，仿佛掉进黑洞。你盯着屏幕抓狂，仿佛错过了一个亿的微信</description>
+      <pubDate>Tue, 01 Jul 2025 13:07:53 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国量子力学研究第一人，王守竞如何加入理论物理的“狂欢”？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572887&amp;idx=3&amp;sn=fc3f86829c75a5c602188c4dfca8eb27</link>
+      <description>物理学家经过长期摸索，终于在1926年找到了正确描述原子分子结构的理论，这就是薛定谔方程。随后的几年里，薛定</description>
+      <pubDate>Tue, 01 Jul 2025 13:07:53 +0800</pubDate>
+    </item>
     <item>
       <title>二维多铁材料H₂O-OH的合成和磁相变调控 | 进展</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572871&amp;idx=1&amp;sn=3abe69394b1a8452439dc521188a3128</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566495&amp;idx=2&amp;sn=b5b2c9ab3759d527453a1e691241d85a</link>
       <description>古人认为月亮上住着神仙，那里有着取之不尽用之不竭的宝贵资源。嫦娥奔月、玉兔捣药、吴刚伐桂……这些传说无不寄托</description>
       <pubDate>Tue, 29 Apr 2025 13:38:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>光的干涉：从彩色肥皂泡到引力波探测器</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566495&amp;idx=3&amp;sn=453c5b7f894daea8d460e0c6c4b50abf</link>
-      <description>彩色的奥秘：我们身边的光波干涉公园里，孩子们吹出的肥皂泡在阳光下呈现出绚烂的色彩，这个日常生活中随处可见的美</description>
-      <pubDate>Tue, 29 Apr 2025 13:38:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>5月17号来公众科学日，观察原子的“恋爱”和“分手”！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566469&amp;idx=1&amp;sn=c173547df89b4ce0d9ae95e427055647</link>
-      <description>跨越量子隧道，物理所“公众科学日”等你来！</description>
-      <pubDate>Mon, 28 Apr 2025 15:56:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025年公众科学日来啦，5月17日物理所怀柔园区等你来（内含报名链接）</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566469&amp;idx=2&amp;sn=fa747d0624882d312f30c8a6e82b6abc</link>
-      <description>公众科学日，没你不行！</description>
-      <pubDate>Mon, 28 Apr 2025 15:56:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
