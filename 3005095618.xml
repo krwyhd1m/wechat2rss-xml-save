@@ -4,13 +4,31 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Tue, 01 Jul 2025 17:31:28 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Jul 2025 17:31:28 +0800</lastBuildDate>
+    <pubDate>Wed, 02 Jul 2025 12:03:07 +0800</pubDate>
+    <lastBuildDate>Wed, 02 Jul 2025 12:03:07 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>充电宝爆炸真那么危险？真相竟是...</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572901&amp;idx=1&amp;sn=db8dc9dfa72090489ab632cb18c77fb7</link>
+      <description>近期，多个品牌充电宝厂家因电芯存在安全风险实施召回，而此前国家市场监督管理总局已撤销或暂停了多个充电宝及电芯</description>
+      <pubDate>Wed, 02 Jul 2025 12:03:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>冰箱上层，为什么是4℃</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572901&amp;idx=2&amp;sn=88cc6bbd96e85acda824aedbaed179f6</link>
+      <description>你观察过冰箱保鲜层设置的温度通常是多少吗？大多数情况下，这一数值会是4℃。这个数值可不是随意选定的，而是科学</description>
+      <pubDate>Wed, 02 Jul 2025 12:03:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国科学家领衔发现超级地球！揭秘如何找到看不见的系外行星</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572901&amp;idx=3&amp;sn=9de4b9ba91e4f01b006208f770bc5418</link>
+      <description>2025年6月3日，《自然·天文》（Nature Astronomy）刊登了一项令人振奋的发现——由中国科学</description>
+      <pubDate>Wed, 02 Jul 2025 12:03:07 +0800</pubDate>
+    </item>
     <item>
       <title>“阳离子自屏蔽”策略助力构建高电压全普鲁士蓝水系钾离子电池 | 进展</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572892&amp;idx=1&amp;sn=d2913420427c953da685f76bd244d874</link>
@@ -1192,24 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566592&amp;idx=2&amp;sn=159c2b0aef9e3409c79da2a693b24b8e</link>
       <description>我们一直身处在湍流中，但我们从未真正地理解过它。王利民 · 中国科学院过程工程研究所研究员大家好，我是王利民</description>
       <pubDate>Wed, 30 Apr 2025 11:22:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>为什么21厘米如此重要</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566592&amp;idx=3&amp;sn=86fe151762642c776ba1b572a69a648d</link>
-      <description>在浩瀚的宇宙图景中，距离以光年衡量，而一个看似不起眼的21厘米长度却具有深远的意义。这个由宇宙中最丰富的元素</description>
-      <pubDate>Wed, 30 Apr 2025 11:22:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>Second Round Meeting Notice of SECUF-2025｜第四届综合极端条件物理学术研讨会暨暑期学校</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566496&amp;idx=1&amp;sn=e218a5f3341c3afa0019509b8de4cfbe</link>
-      <description>SECUF-2025, Huairou, Beijing; July 14-20, 2025</description>
-      <pubDate>Tue, 29 Apr 2025 18:25:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>生命，居然也可以悬在边界上，不活不死……</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566495&amp;idx=1&amp;sn=af2bcdf3b7fecb437413349cfa7f02ea</link>
-      <description>除了生和死，生命会有第三种状态吗……</description>
-      <pubDate>Tue, 29 Apr 2025 13:38:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
