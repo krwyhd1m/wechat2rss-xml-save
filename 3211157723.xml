@@ -4,13 +4,25 @@
     <link>https://localhost:8080/feed/3211157723.xml</link>
     <description>广州的中学生都关注了，你还等什么？福利多多谁关注谁知道~&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (广州中学生大本营)</managingEditor>
-    <pubDate>Tue, 01 Jul 2025 11:44:30 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Jul 2025 11:44:30 +0800</lastBuildDate>
+    <pubDate>Wed, 02 Jul 2025 11:19:05 +0800</pubDate>
+    <lastBuildDate>Wed, 02 Jul 2025 11:19:05 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM4kicQCUFLjzwkpWsG3PibPVkm3RcaEd61ficic2MHozkQN1w/0</url>
       <title>广州中学生大本营</title>
       <link>https://localhost:8080/feed/3211157723.xml</link>
     </image>
+    <item>
+      <title>广州中考结束啦！考生笑容满满出考场：英语，简单！出分时间在…</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIxMTE1NzcyMw==&amp;mid=2650736635&amp;idx=1&amp;sn=02e7660776071ecb1833fd070f35d399</link>
+      <description>广州中学生卫星发射站，同学们都在看！</description>
+      <pubDate>Wed, 02 Jul 2025 11:19:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>想复读了，应该怎样选学校？</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIxMTE1NzcyMw==&amp;mid=2650736635&amp;idx=2&amp;sn=8de42c7d0d2e08df51cb960c1e0768f0</link>
+      <description>广州中学生卫星发射站，同学们都在看！</description>
+      <pubDate>Wed, 02 Jul 2025 11:19:05 +0800</pubDate>
+    </item>
     <item>
       <title>被数学狠狠背刺？广州中考第二天一片哀嚎？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIxMTE1NzcyMw==&amp;mid=2650736604&amp;idx=1&amp;sn=10dec478ec92cc3b9f8f35765973d47e</link>
@@ -1198,18 +1210,6 @@
       <link>https://mp.weixin.qq.com/s?__biz=MzIxMTE1NzcyMw==&amp;mid=2650734998&amp;idx=2&amp;sn=9de40d71b37486a1c07d2f756171a821</link>
       <description>广州中学生卫星发射站，同学们都在看！</description>
       <pubDate>Tue, 18 Mar 2025 17:40:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>共鸣上了，同学网上发帖：“有钱校友校庆别捐雕像了，求捐个厕所！”</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIxMTE1NzcyMw==&amp;mid=2650734950&amp;idx=1&amp;sn=c6fcbbe5415f61f5d3d7d7d25a0741fd</link>
-      <description>广州中学生卫星发射站，同学们都在看！</description>
-      <pubDate>Sun, 16 Mar 2025 11:46:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>牛！广州8人上榜！全国信奥赛广东省队名单出炉！</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIxMTE1NzcyMw==&amp;mid=2650734950&amp;idx=2&amp;sn=ad4264a6f19eb114ba9b06a9f08f4e90</link>
-      <description>广州中学生卫星发射站，同学们都在看！</description>
-      <pubDate>Sun, 16 Mar 2025 11:46:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
