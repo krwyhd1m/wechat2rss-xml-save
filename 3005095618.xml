@@ -4,13 +4,19 @@
     <link>https://localhost:8080/feed/3005095618.xml</link>
     <description>物理所科研动态和综合新闻；物理学前沿和科学传播。&#xA;(wechat feed made by @ttttmr https://wechat2rss.xlab.app)</description>
     <managingEditor> (中科院物理所)</managingEditor>
-    <pubDate>Tue, 01 Jul 2025 13:07:53 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Jul 2025 13:07:53 +0800</lastBuildDate>
+    <pubDate>Tue, 01 Jul 2025 17:31:28 +0800</pubDate>
+    <lastBuildDate>Tue, 01 Jul 2025 17:31:28 +0800</lastBuildDate>
     <image>
       <url>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6k5w49ic4tJ8gaZ0YKXPPyibiaNh47hgvG7UPHxpelrzQicg/0</url>
       <title>中科院物理所</title>
       <link>https://localhost:8080/feed/3005095618.xml</link>
     </image>
+    <item>
+      <title>“阳离子自屏蔽”策略助力构建高电压全普鲁士蓝水系钾离子电池 | 进展</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572892&amp;idx=1&amp;sn=d2913420427c953da685f76bd244d874</link>
+      <description></description>
+      <pubDate>Tue, 01 Jul 2025 17:31:28 +0800</pubDate>
+    </item>
     <item>
       <title>如果你把一杯奶茶扔进黑洞，会发生什么？</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651572887&amp;idx=1&amp;sn=d8459e40f17aeb81fcd588cfbe46a151</link>
@@ -1203,12 +1209,6 @@
       <title>生命，居然也可以悬在边界上，不活不死……</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566495&amp;idx=1&amp;sn=af2bcdf3b7fecb437413349cfa7f02ea</link>
       <description>除了生和死，生命会有第三种状态吗……</description>
-      <pubDate>Tue, 29 Apr 2025 13:38:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>3.7 千克月球 “土特产” 藏着多少宝贝？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzAwNTA5NTYxOA==&amp;mid=2651566495&amp;idx=2&amp;sn=b5b2c9ab3759d527453a1e691241d85a</link>
-      <description>古人认为月亮上住着神仙，那里有着取之不尽用之不竭的宝贵资源。嫦娥奔月、玉兔捣药、吴刚伐桂……这些传说无不寄托</description>
       <pubDate>Tue, 29 Apr 2025 13:38:48 +0800</pubDate>
     </item>
   </channel>
